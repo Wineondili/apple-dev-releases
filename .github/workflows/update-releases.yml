@@ -1,1 +1,26 @@
-# placeholder, content will be added next
+name: Update Apple Releases
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # 每 30 分钟运行一次
+  workflow_dispatch:         # 手动触发用
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install feedparser requests
+
+      - name: Fetch RSS & Push Notifications
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID:   ${{ secrets.TG_CHAT_ID }}
+          BARK_KEY_MAIN: ${{ secrets.BARK_KEY_MAIN }}
+        run: python scripts/fetch_rss.py
