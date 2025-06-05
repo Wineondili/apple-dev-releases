@@ -45,7 +45,7 @@ if token and chatid:
 bark_key = os.getenv("BARK_KEY_MAIN")         # 你保存的那个名称
 if bark_key:
     bark_url = (
-        f"https://api.day.app/{bark_key_main}/{msg_title}/{msg_body}"
+        f"https://api.day.app/{bark_key}/{msg_title}/{msg_body}"
         f"?url={msg_link}"
     )
     requests.get(bark_url, timeout=10)
