@@ -1,42 +1,32 @@
 [
   {
-    "date": "2025-05-19",
-    "title": "iPadOS 17.7.8 (21H440)",
-    "link": "https://developer.apple.com/news/releases/?id=05192025a"
+    "date": "2025-06-09",
+    "title": "iOS 26 beta (23A5260n)",
+    "link": "https://developer.apple.com/news/releases/?id=06092025a"
   },
   {
-    "date": "2025-05-12",
-    "title": "iOS 18.5 (22F76)",
-    "link": "https://developer.apple.com/news/releases/?id=05122025a"
+    "date": "2025-06-09",
+    "title": "iPadOS 26 beta (23A5260n)",
+    "link": "https://developer.apple.com/news/releases/?id=06092025b"
   },
   {
-    "date": "2025-05-12",
-    "title": "iPadOS 18.5 (22F76)",
-    "link": "https://developer.apple.com/news/releases/?id=05122025b"
+    "date": "2025-06-09",
+    "title": "macOS 26 beta (25A5279m)",
+    "link": "https://developer.apple.com/news/releases/?id=06092025c"
   },
   {
-    "date": "2025-05-12",
-    "title": "macOS 15.5 (24F74)",
-    "link": "https://developer.apple.com/news/releases/?id=05122025c"
+    "date": "2025-06-09",
+    "title": "tvOS 26 beta (23J5279m)",
+    "link": "https://developer.apple.com/news/releases/?id=06092025d"
   },
   {
-    "date": "2025-05-12",
-    "title": "tvOS 18.5 (22L572)",
-    "link": "https://developer.apple.com/news/releases/?id=05122025d"
+    "date": "2025-06-09",
+    "title": "visionOS 26 beta (23M5263m)",
+    "link": "https://developer.apple.com/news/releases/?id=06092025e"
   },
   {
-    "date": "2025-05-12",
-    "title": "visionOS 2.5 (22O473)",
-    "link": "https://developer.apple.com/news/releases/?id=05122025e"
-  },
-  {
-    "date": "2025-05-12",
-    "title": "watchOS 11.5 (22T572)",
-    "link": "https://developer.apple.com/news/releases/?id=05122025f"
-  },
-  {
-    "date": "2025-04-16",
-    "title": "iOS 18.4.1 (22E252)",
-    "link": "https://developer.apple.com/news/releases/?id=04162025a"
+    "date": "2025-06-09",
+    "title": "watchOS 26 beta (23R5280m)",
+    "link": "https://developer.apple.com/news/releases/?id=06092025f"
   }
 ]
