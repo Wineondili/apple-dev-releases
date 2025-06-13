@@ -1,7 +1,12 @@
 [
   {
+    "date": "2025-06-13",
+    "title": "iOS 26 (23A5260u)",
+    "link": "https://developer.apple.com/news/releases/?id=06132025a"
+  },
+  {
     "date": "2025-06-10",
-    "title": "AirPods Firmware beta (8A5279d)",
+    "title": "AirPods Firmware beta (8A279d)",
     "link": "https://developer.apple.com/news/releases/?id=06102025b"
   },
   {
@@ -28,10 +33,5 @@
     "date": "2025-06-09",
     "title": "visionOS 26 beta (23M5263m)",
     "link": "https://developer.apple.com/news/releases/?id=06092025e"
-  },
-  {
-    "date": "2025-06-09",
-    "title": "watchOS 26 beta (23R5280m)",
-    "link": "https://developer.apple.com/news/releases/?id=06092025f"
   }
 ]
