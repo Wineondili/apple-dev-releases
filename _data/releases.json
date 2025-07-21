@@ -1,42 +1,42 @@
 [
   {
-    "date": "2025-07-14",
-    "title": "iOS 18.6 beta 3 (22G5073b)",
-    "link": "https://developer.apple.com/news/releases/?id=07142025a"
+    "date": "2025-07-21",
+    "title": "iOS 18.6 RC (22G84)",
+    "link": "https://developer.apple.com/news/releases/?id=07212025a"
   },
   {
-    "date": "2025-07-14",
-    "title": "iPadOS 18.6 beta 3 (22G5073b)",
-    "link": "https://developer.apple.com/news/releases/?id=07142025b"
+    "date": "2025-07-21",
+    "title": "iPadOS 18.6 RC (22G84)",
+    "link": "https://developer.apple.com/news/releases/?id=07212025b"
   },
   {
-    "date": "2025-07-14",
-    "title": "macOS 15.6 beta 3 (24G5074c)",
-    "link": "https://developer.apple.com/news/releases/?id=07142025c"
+    "date": "2025-07-21",
+    "title": "iPadOS 17.7.9 RC (21H446)",
+    "link": "https://developer.apple.com/news/releases/?id=07212025g"
   },
   {
-    "date": "2025-07-14",
-    "title": "tvOS 18.6 beta 3 (22M5074b)",
-    "link": "https://developer.apple.com/news/releases/?id=07142025d"
+    "date": "2025-07-21",
+    "title": "macOS 15.6 RC (24G84)",
+    "link": "https://developer.apple.com/news/releases/?id=07212025c"
   },
   {
-    "date": "2025-07-14",
-    "title": "visionOS 2.6 beta 3 (22O5773b)",
-    "link": "https://developer.apple.com/news/releases/?id=07142025e"
+    "date": "2025-07-21",
+    "title": "tvOS 18.6 RC (22M84)",
+    "link": "https://developer.apple.com/news/releases/?id=07212025d"
   },
   {
-    "date": "2025-07-14",
-    "title": "watchOS 11.6 beta 3 (22U5074b)",
-    "link": "https://developer.apple.com/news/releases/?id=07142025f"
+    "date": "2025-07-21",
+    "title": "visionOS 2.6 RC (22O783)",
+    "link": "https://developer.apple.com/news/releases/?id=07212025e"
+  },
+  {
+    "date": "2025-07-21",
+    "title": "watchOS 11.6 RC (22U84)",
+    "link": "https://developer.apple.com/news/releases/?id=07212025f"
   },
   {
     "date": "2025-07-10",
     "title": "AirPods Firmware beta 3 (8A5308b)",
     "link": "https://developer.apple.com/news/releases/?id=07102025a"
-  },
-  {
-    "date": "2025-07-08",
-    "title": "Icon Composer beta 3",
-    "link": "https://developer.apple.com/news/releases/?id=07082025c"
   }
 ]
