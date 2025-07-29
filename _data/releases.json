@@ -30,6 +30,11 @@
     "link": "https://developer.apple.com/news/releases/?id=07292025f"
   },
   {
+    "date": "2025-07-29",
+    "title": "AirPods Firmware beta 4 (8A5324b)",
+    "link": "https://developer.apple.com/news/releases/?id=07292025g"
+  },
+  {
     "date": "2025-07-22",
     "title": "iOS 26 beta 4 (23A5297i)",
     "link": "https://developer.apple.com/news/releases/?id=07222025a"
@@ -38,10 +43,5 @@
     "date": "2025-07-22",
     "title": "iPadOS 26 beta 4 (23A5297i)",
     "link": "https://developer.apple.com/news/releases/?id=07222025b"
-  },
-  {
-    "date": "2025-07-22",
-    "title": "macOS 26 beta 4 (25A5316i)",
-    "link": "https://developer.apple.com/news/releases/?id=07222025c"
   }
 ]
