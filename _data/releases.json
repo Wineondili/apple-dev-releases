@@ -1,47 +1,37 @@
 [
   {
-    "date": "2025-08-05",
-    "title": "iOS 26 beta 5 (23A5308g)",
-    "link": "https://developer.apple.com/news/releases/?id=08052025a"
+    "date": "2025-08-11",
+    "title": "iOS 26 beta 6 (23A5318c)",
+    "link": "https://developer.apple.com/news/releases/?id=08112025a"
   },
   {
-    "date": "2025-08-05",
-    "title": "iPadOS 26 beta 5 (23A5308g)",
-    "link": "https://developer.apple.com/news/releases/?id=08052025b"
+    "date": "2025-08-11",
+    "title": "iPadOS 26 beta 6 (23A5318c)",
+    "link": "https://developer.apple.com/news/releases/?id=08112025b"
   },
   {
-    "date": "2025-08-05",
-    "title": "macOS 26 beta 5 (25A5327h)",
-    "link": "https://developer.apple.com/news/releases/?id=08052025c"
+    "date": "2025-08-11",
+    "title": "macOS 26 beta 6 (25A5338b)",
+    "link": "https://developer.apple.com/news/releases/?id=08112025c"
   },
   {
-    "date": "2025-08-05",
-    "title": "tvOS 26 beta 5 (23J5327g)",
-    "link": "https://developer.apple.com/news/releases/?id=08052025g"
+    "date": "2025-08-11",
+    "title": "tvOS 26 beta 6 (23J5339a)",
+    "link": "https://developer.apple.com/news/releases/?id=08112025g"
   },
   {
-    "date": "2025-08-05",
-    "title": "visionOS 26 beta 5 (23M5311g)",
-    "link": "https://developer.apple.com/news/releases/?id=08052025e"
+    "date": "2025-08-11",
+    "title": "visionOS 26 beta 6 (23M5322b)",
+    "link": "https://developer.apple.com/news/releases/?id=08112025e"
   },
   {
-    "date": "2025-08-05",
-    "title": "watchOS 26 beta 5 (23R5328g)",
-    "link": "https://developer.apple.com/news/releases/?id=08052025f"
+    "date": "2025-08-11",
+    "title": "watchOS 26 beta 6 (23R5340a)",
+    "link": "https://developer.apple.com/news/releases/?id=08112025f"
   },
   {
     "date": "2025-07-29",
     "title": "iOS 18.6 (22G86)",
     "link": "https://developer.apple.com/news/releases/?id=07292025a"
-  },
-  {
-    "date": "2025-07-29",
-    "title": "iPadOS 18.6 (22G86)",
-    "link": "https://developer.apple.com/news/releases/?id=07292025b"
-  },
-  {
-    "date": "2025-07-29",
-    "title": "macOS 15.6 (24G84)",
-    "link": "https://developer.apple.com/news/releases/?id=07292025c"
   }
 ]
