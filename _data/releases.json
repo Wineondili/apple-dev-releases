@@ -30,8 +30,23 @@
     "link": "https://developer.apple.com/news/releases/?id=09152025f"
   },
   {
-    "date": "2025-09-09",
-    "title": "iOS 18.7 RC (22H20)",
-    "link": "https://developer.apple.com/news/releases/?id=09092025g"
+    "date": "2025-09-15",
+    "title": "iOS 18.7 (22H20)",
+    "link": "https://developer.apple.com/news/releases/?id=09152025g"
+  },
+  {
+    "date": "2025-09-15",
+    "title": "iPadOS 18.7 (22H20)",
+    "link": "https://developer.apple.com/news/releases/?id=09152025h"
+  },
+  {
+    "date": "2025-09-15",
+    "title": "iOS 16.7.12 (20H364)",
+    "link": "https://developer.apple.com/news/releases/?id=09152025i"
+  },
+  {
+    "date": "2025-09-15",
+    "title": "iPadOS 16.7.12 (20H364)",
+    "link": "https://developer.apple.com/news/releases/?id=09152025j"
   }
 ]
