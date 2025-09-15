@@ -1,47 +1,37 @@
 [
   {
-    "date": "2025-09-09",
-    "title": "iOS 26 RC (23A340)",
-    "link": "https://developer.apple.com/news/releases/?id=09092025a"
+    "date": "2025-09-15",
+    "title": "iOS 26 (23A341)",
+    "link": "https://developer.apple.com/news/releases/?id=09152025a"
   },
   {
-    "date": "2025-09-09",
-    "title": "iPadOS 26 RC (23A340)",
-    "link": "https://developer.apple.com/news/releases/?id=09092025b"
+    "date": "2025-09-15",
+    "title": "iPadOS 26 (23A341)",
+    "link": "https://developer.apple.com/news/releases/?id=09152025b"
   },
   {
-    "date": "2025-09-09",
-    "title": "macOS 26 RC (25A353)",
-    "link": "https://developer.apple.com/news/releases/?id=09092025c"
+    "date": "2025-09-15",
+    "title": "macOS 26 (25A354)",
+    "link": "https://developer.apple.com/news/releases/?id=09152025c"
   },
   {
-    "date": "2025-09-09",
-    "title": "tvOS 26 RC (23J352)",
-    "link": "https://developer.apple.com/news/releases/?id=09092025g"
+    "date": "2025-09-15",
+    "title": "tvOS 26 (23J353)",
+    "link": "https://developer.apple.com/news/releases/?id=09152025g"
   },
   {
-    "date": "2025-09-09",
-    "title": "visionOS 26 RC (23M336)",
-    "link": "https://developer.apple.com/news/releases/?id=09092025e"
+    "date": "2025-09-15",
+    "title": "visionOS 26 (23M336)",
+    "link": "https://developer.apple.com/news/releases/?id=09152025e"
   },
   {
-    "date": "2025-09-09",
-    "title": "watchOS 26 RC (23R351)",
-    "link": "https://developer.apple.com/news/releases/?id=09092025f"
+    "date": "2025-09-15",
+    "title": "watchOS 26 (23R352)",
+    "link": "https://developer.apple.com/news/releases/?id=09152025f"
   },
   {
     "date": "2025-09-09",
     "title": "iOS 18.7 RC (22H20)",
     "link": "https://developer.apple.com/news/releases/?id=09092025g"
-  },
-  {
-    "date": "2025-09-09",
-    "title": "iPadOS 18.7 RC (22H20)",
-    "link": "https://developer.apple.com/news/releases/?id=09092025h"
-  },
-  {
-    "date": "2025-09-09",
-    "title": "iOS 16.7.12 RC (20H364)",
-    "link": "https://developer.apple.com/news/releases/?id=09092025i"
   }
 ]
