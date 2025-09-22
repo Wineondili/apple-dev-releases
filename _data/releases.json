@@ -1,33 +1,33 @@
 [
   {
-    "date": "2025-09-15",
-    "title": "iOS 26 (23A341)",
-    "link": "https://developer.apple.com/news/releases/?id=09152025a"
+    "date": "2025-09-25",
+    "title": "iOS 26.1 beta (23B5044l)",
+    "link": "https://developer.apple.com/news/releases/?id=09222025a"
   },
   {
-    "date": "2025-09-15",
-    "title": "iPadOS 26 (23A341)",
-    "link": "https://developer.apple.com/news/releases/?id=09152025b"
+    "date": "2025-09-22",
+    "title": "iPadOS 26.1 beta (23B5044l)",
+    "link": "https://developer.apple.com/news/releases/?id=09222025b"
   },
   {
-    "date": "2025-09-15",
-    "title": "macOS 26 (25A354)",
-    "link": "https://developer.apple.com/news/releases/?id=09152025c"
+    "date": "2025-09-22",
+    "title": "macOS 26.1 beta (25B5042k)",
+    "link": "https://developer.apple.com/news/releases/?id=09222025c"
   },
   {
-    "date": "2025-09-15",
-    "title": "tvOS 26 (23J353)",
-    "link": "https://developer.apple.com/news/releases/?id=09152025g"
+    "date": "2025-09-22",
+    "title": "tvOS 26.1 beta (23J5543j)",
+    "link": "https://developer.apple.com/news/releases/?id=09222025g"
   },
   {
-    "date": "2025-09-15",
-    "title": "visionOS 26 (23M336)",
-    "link": "https://developer.apple.com/news/releases/?id=09152025e"
+    "date": "2025-09-22",
+    "title": "visionOS 26.1 beta (23N5013j)",
+    "link": "https://developer.apple.com/news/releases/?id=09222025e"
   },
   {
-    "date": "2025-09-15",
-    "title": "watchOS 26 (23R352)",
-    "link": "https://developer.apple.com/news/releases/?id=09152025f"
+    "date": "2025-09-22",
+    "title": "watchOS 26.1 beta (23S5002i)",
+    "link": "https://developer.apple.com/news/releases/?id=09222025f"
   },
   {
     "date": "2025-09-15",
@@ -38,15 +38,5 @@
     "date": "2025-09-15",
     "title": "iPadOS 18.7 (22H20)",
     "link": "https://developer.apple.com/news/releases/?id=09152025h"
-  },
-  {
-    "date": "2025-09-15",
-    "title": "iOS 16.7.12 (20H364)",
-    "link": "https://developer.apple.com/news/releases/?id=09152025i"
-  },
-  {
-    "date": "2025-09-15",
-    "title": "iPadOS 16.7.12 (20H364)",
-    "link": "https://developer.apple.com/news/releases/?id=09152025j"
   }
 ]
