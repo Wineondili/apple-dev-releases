@@ -1,42 +1,37 @@
 [
   {
-    "date": "2025-09-25",
+    "date": "2025-09-29",
+    "title": "iOS 26.0.1 (23A355)",
+    "link": "https://developer.apple.com/news/releases/?id=09292025a"
+  },
+  {
+    "date": "2025-09-29",
+    "title": "iPadOS 26.0.1 (23A355)",
+    "link": "https://developer.apple.com/news/releases/?id=09292025b"
+  },
+  {
+    "date": "2025-09-29",
+    "title": "macOS 26.0.1 (25A362)",
+    "link": "https://developer.apple.com/news/releases/?id=09292025c"
+  },
+  {
+    "date": "2025-09-29",
+    "title": "tvOS 26.0.1 (23J362)",
+    "link": "https://developer.apple.com/news/releases/?id=09292025g"
+  },
+  {
+    "date": "2025-09-29",
+    "title": "visionOS 26.0.1 (23M341)",
+    "link": "https://developer.apple.com/news/releases/?id=09292025e"
+  },
+  {
+    "date": "2025-09-29",
+    "title": "watchOS 26.0.1 (23R8362)",
+    "link": "https://developer.apple.com/news/releases/?id=09292025f"
+  },
+  {
+    "date": "2025-09-22",
     "title": "iOS 26.1 beta (23B5044l)",
     "link": "https://developer.apple.com/news/releases/?id=09222025a"
-  },
-  {
-    "date": "2025-09-22",
-    "title": "iPadOS 26.1 beta (23B5044l)",
-    "link": "https://developer.apple.com/news/releases/?id=09222025b"
-  },
-  {
-    "date": "2025-09-22",
-    "title": "macOS 26.1 beta (25B5042k)",
-    "link": "https://developer.apple.com/news/releases/?id=09222025c"
-  },
-  {
-    "date": "2025-09-22",
-    "title": "tvOS 26.1 beta (23J5543j)",
-    "link": "https://developer.apple.com/news/releases/?id=09222025g"
-  },
-  {
-    "date": "2025-09-22",
-    "title": "visionOS 26.1 beta (23N5013j)",
-    "link": "https://developer.apple.com/news/releases/?id=09222025e"
-  },
-  {
-    "date": "2025-09-22",
-    "title": "watchOS 26.1 beta (23S5002i)",
-    "link": "https://developer.apple.com/news/releases/?id=09222025f"
-  },
-  {
-    "date": "2025-09-15",
-    "title": "iOS 18.7 (22H20)",
-    "link": "https://developer.apple.com/news/releases/?id=09152025g"
-  },
-  {
-    "date": "2025-09-15",
-    "title": "iPadOS 18.7 (22H20)",
-    "link": "https://developer.apple.com/news/releases/?id=09152025h"
   }
 ]
