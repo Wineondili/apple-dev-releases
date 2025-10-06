@@ -1,37 +1,37 @@
 [
   {
+    "date": "2025-10-06",
+    "title": "iOS 26.1 beta 2 (23B5059e)",
+    "link": "https://developer.apple.com/news/releases/?id=10062025a"
+  },
+  {
+    "date": "2025-10-06",
+    "title": "iPadOS 26.1 beta 2 (23B5059e)",
+    "link": "https://developer.apple.com/news/releases/?id=10062025b"
+  },
+  {
+    "date": "2025-10-06",
+    "title": "macOS 26.1 beta 2 (25B5057f)",
+    "link": "https://developer.apple.com/news/releases/?id=10062025c"
+  },
+  {
+    "date": "2025-10-06",
+    "title": "tvOS 26.1 beta 2 (23J5558e)",
+    "link": "https://developer.apple.com/news/releases/?id=10062025g"
+  },
+  {
+    "date": "2025-10-06",
+    "title": "visionOS 26.1 beta 2 (23N5028e)",
+    "link": "https://developer.apple.com/news/releases/?id=10062025e"
+  },
+  {
+    "date": "2025-10-06",
+    "title": "watchOS 26.1 beta 2 (23S5017d)",
+    "link": "https://developer.apple.com/news/releases/?id=10062025f"
+  },
+  {
     "date": "2025-09-29",
     "title": "iOS 26.0.1 (23A355)",
     "link": "https://developer.apple.com/news/releases/?id=09292025a"
-  },
-  {
-    "date": "2025-09-29",
-    "title": "iPadOS 26.0.1 (23A355)",
-    "link": "https://developer.apple.com/news/releases/?id=09292025b"
-  },
-  {
-    "date": "2025-09-29",
-    "title": "macOS 26.0.1 (25A362)",
-    "link": "https://developer.apple.com/news/releases/?id=09292025c"
-  },
-  {
-    "date": "2025-09-29",
-    "title": "tvOS 26.0.1 (23J362)",
-    "link": "https://developer.apple.com/news/releases/?id=09292025g"
-  },
-  {
-    "date": "2025-09-29",
-    "title": "visionOS 26.0.1 (23M341)",
-    "link": "https://developer.apple.com/news/releases/?id=09292025e"
-  },
-  {
-    "date": "2025-09-29",
-    "title": "watchOS 26.0.1 (23R8362)",
-    "link": "https://developer.apple.com/news/releases/?id=09292025f"
-  },
-  {
-    "date": "2025-09-22",
-    "title": "iOS 26.1 beta (23B5044l)",
-    "link": "https://developer.apple.com/news/releases/?id=09222025a"
   }
 ]
