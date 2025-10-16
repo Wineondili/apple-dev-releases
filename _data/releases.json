@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-10-16",
+    "title": "iPadOS 26.0.1 (23A8464)",
+    "link": "https://developer.apple.com/news/releases/?id=10162025a"
+  },
+  {
+    "date": "2025-10-16",
+    "title": "macOS 26.0.1 (25A8364)",
+    "link": "https://developer.apple.com/news/releases/?id=10162025b"
+  },
+  {
+    "date": "2025-10-16",
+    "title": "visionOS 26.0.1 (23M8340)",
+    "link": "https://developer.apple.com/news/releases/?id=10162025c"
+  },
+  {
     "date": "2025-10-13",
     "title": "iOS 26.1 beta 3 (23B5064e)",
     "link": "https://developer.apple.com/news/releases/?id=10132025a"
