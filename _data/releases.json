@@ -1,5 +1,35 @@
 [
   {
+    "date": "2025-10-20",
+    "title": "iOS 26.1 beta 4 (23B5073a)",
+    "link": "https://developer.apple.com/news/releases/?id=10202025a"
+  },
+  {
+    "date": "2025-10-20",
+    "title": "iPadOS 26.1 beta 4 (23B5073a)",
+    "link": "https://developer.apple.com/news/releases/?id=10202025b"
+  },
+  {
+    "date": "2025-10-20",
+    "title": "macOS 26.1 beta 4 (25B5072a)",
+    "link": "https://developer.apple.com/news/releases/?id=10202025c"
+  },
+  {
+    "date": "2025-10-20",
+    "title": "tvOS 26.1 beta 4 (23J5571a)",
+    "link": "https://developer.apple.com/news/releases/?id=10202025d"
+  },
+  {
+    "date": "2025-10-20",
+    "title": "visionOS 26.1 beta 4 (23N5042a)",
+    "link": "https://developer.apple.com/news/releases/?id=10202025e"
+  },
+  {
+    "date": "2025-10-20",
+    "title": "watchOS 26.1 beta 4 (23S5031a)",
+    "link": "https://developer.apple.com/news/releases/?id=10202025f"
+  },
+  {
     "date": "2025-10-16",
     "title": "iPadOS 26.0.1 (23A8464)",
     "link": "https://developer.apple.com/news/releases/?id=10162025a"
@@ -13,35 +43,5 @@
     "date": "2025-10-16",
     "title": "visionOS 26.0.1 (23M8340)",
     "link": "https://developer.apple.com/news/releases/?id=10162025c"
-  },
-  {
-    "date": "2025-10-13",
-    "title": "iOS 26.1 beta 3 (23B5064e)",
-    "link": "https://developer.apple.com/news/releases/?id=10132025a"
-  },
-  {
-    "date": "2025-10-13",
-    "title": "iPadOS 26.1 beta 3 (23B5064e)",
-    "link": "https://developer.apple.com/news/releases/?id=10132025b"
-  },
-  {
-    "date": "2025-10-13",
-    "title": "macOS 26.1 beta 3 (25B5062e)",
-    "link": "https://developer.apple.com/news/releases/?id=10132025c"
-  },
-  {
-    "date": "2025-10-13",
-    "title": "tvOS 26.1 beta 3 (23J5563d)",
-    "link": "https://developer.apple.com/news/releases/?id=10132025g"
-  },
-  {
-    "date": "2025-10-13",
-    "title": "visionOS 26.1 beta 3 (23N5033d)",
-    "link": "https://developer.apple.com/news/releases/?id=10132025e"
-  },
-  {
-    "date": "2025-10-13",
-    "title": "watchOS 26.1 beta 3 (23S5022e)",
-    "link": "https://developer.apple.com/news/releases/?id=10132025f"
   }
 ]
