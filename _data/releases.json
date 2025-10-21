@@ -1,5 +1,10 @@
 [
   {
+    "date": "2025-10-21",
+    "title": "iPadOS 26.0.1 (23A8466)",
+    "link": "https://developer.apple.com/news/releases/?id=10212025a"
+  },
+  {
     "date": "2025-10-20",
     "title": "iOS 26.1 beta 4 (23B5073a)",
     "link": "https://developer.apple.com/news/releases/?id=10202025a"
@@ -28,11 +33,6 @@
     "date": "2025-10-20",
     "title": "watchOS 26.1 beta 4 (23S5031a)",
     "link": "https://developer.apple.com/news/releases/?id=10202025f"
-  },
-  {
-    "date": "2025-10-16",
-    "title": "iPadOS 26.0.1 (23A8464)",
-    "link": "https://developer.apple.com/news/releases/?id=10162025a"
   },
   {
     "date": "2025-10-16",
