@@ -1,47 +1,42 @@
 [
   {
-    "date": "2025-10-21",
-    "title": "iPadOS 26.0.1 (23A8466)",
-    "link": "https://developer.apple.com/news/releases/?id=10212025a"
+    "date": "2025-10-28",
+    "title": "iOS 26.1 RC (23B82)",
+    "link": "https://developer.apple.com/news/releases/?id=10282025a"
   },
   {
-    "date": "2025-10-20",
-    "title": "iOS 26.1 beta 4 (23B5073a)",
-    "link": "https://developer.apple.com/news/releases/?id=10202025a"
+    "date": "2025-10-28",
+    "title": "iPadOS 26.1 RC (23B82)",
+    "link": "https://developer.apple.com/news/releases/?id=10282025b"
   },
   {
-    "date": "2025-10-20",
-    "title": "iPadOS 26.1 beta 4 (23B5073a)",
-    "link": "https://developer.apple.com/news/releases/?id=10202025b"
+    "date": "2025-10-28",
+    "title": "macOS 26.1 RC (25B77)",
+    "link": "https://developer.apple.com/news/releases/?id=10282025c"
   },
   {
-    "date": "2025-10-20",
-    "title": "macOS 26.1 beta 4 (25B5072a)",
-    "link": "https://developer.apple.com/news/releases/?id=10202025c"
+    "date": "2025-10-28",
+    "title": "tvOS 26.1 RC (23J580)",
+    "link": "https://developer.apple.com/news/releases/?id=10282025d"
   },
   {
-    "date": "2025-10-20",
-    "title": "tvOS 26.1 beta 4 (23J5571a)",
-    "link": "https://developer.apple.com/news/releases/?id=10202025d"
+    "date": "2025-10-28",
+    "title": "visionOS 26.1 RC (23N48)",
+    "link": "https://developer.apple.com/news/releases/?id=10282025e"
   },
   {
-    "date": "2025-10-20",
-    "title": "visionOS 26.1 beta 4 (23N5042a)",
-    "link": "https://developer.apple.com/news/releases/?id=10202025e"
+    "date": "2025-10-28",
+    "title": "watchOS 26.1 RC (23S36)",
+    "link": "https://developer.apple.com/news/releases/?id=10282025f"
   },
   {
-    "date": "2025-10-20",
-    "title": "watchOS 26.1 beta 4 (23S5031a)",
-    "link": "https://developer.apple.com/news/releases/?id=10202025f"
+    "date": "2025-10-28",
+    "title": "iOS 18.7.2 RC (22H123)",
+    "link": "https://developer.apple.com/news/releases/?id=10282025g"
   },
   {
-    "date": "2025-10-16",
-    "title": "macOS 26.0.1 (25A8364)",
-    "link": "https://developer.apple.com/news/releases/?id=10162025b"
-  },
-  {
-    "date": "2025-10-16",
-    "title": "visionOS 26.0.1 (23M8340)",
-    "link": "https://developer.apple.com/news/releases/?id=10162025c"
+    "date": "2025-10-28",
+    "title": "iPadOS 18.7.2 RC (22H123)",
+    "link": "https://developer.apple.com/news/releases/?id=10282025h"
   }
 ]
