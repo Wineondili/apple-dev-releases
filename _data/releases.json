@@ -1,5 +1,30 @@
 [
   {
+    "date": "2025-11-04",
+    "title": "iOS 26.2 beta (23C5027f)",
+    "link": "https://developer.apple.com/news/releases/?id=11042025a"
+  },
+  {
+    "date": "2025-11-04",
+    "title": "iPadOS 26.2 beta (23C5027f)",
+    "link": "https://developer.apple.com/news/releases/?id=11042025b"
+  },
+  {
+    "date": "2025-11-04",
+    "title": "tvOS 26.2 beta (23K5029e)",
+    "link": "https://developer.apple.com/news/releases/?id=11042025d"
+  },
+  {
+    "date": "2025-11-04",
+    "title": "visionOS 26.2 beta (23N5279e)",
+    "link": "https://developer.apple.com/news/releases/?id=11042025e"
+  },
+  {
+    "date": "2025-11-04",
+    "title": "watchOS 26.2 beta (23S5280e)",
+    "link": "https://developer.apple.com/news/releases/?id=11042025f"
+  },
+  {
     "date": "2025-11-03",
     "title": "iOS 26.1 (23B85)",
     "link": "https://developer.apple.com/news/releases/?id=11032025a"
@@ -18,25 +43,5 @@
     "date": "2025-11-03",
     "title": "tvOS 26.1 (23J582)",
     "link": "https://developer.apple.com/news/releases/?id=11032025d"
-  },
-  {
-    "date": "2025-11-03",
-    "title": "visionOS 26.1 (23N49)",
-    "link": "https://developer.apple.com/news/releases/?id=11032025e"
-  },
-  {
-    "date": "2025-11-03",
-    "title": "watchOS 26.1 (23S37)",
-    "link": "https://developer.apple.com/news/releases/?id=11032025f"
-  },
-  {
-    "date": "2025-10-28",
-    "title": "iOS 18.7.2 RC (22H123)",
-    "link": "https://developer.apple.com/news/releases/?id=10282025g"
-  },
-  {
-    "date": "2025-10-28",
-    "title": "iPadOS 18.7.2 RC (22H123)",
-    "link": "https://developer.apple.com/news/releases/?id=10282025h"
   }
 ]
