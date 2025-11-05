@@ -1,5 +1,15 @@
 [
   {
+    "date": "2025-11-05",
+    "title": "iOS 18.7.2 (22H124)",
+    "link": "https://developer.apple.com/news/releases/?id=11052025g"
+  },
+  {
+    "date": "2025-11-05",
+    "title": "iPadOS 18.7.2 (22H124)",
+    "link": "https://developer.apple.com/news/releases/?id=11052025h"
+  },
+  {
     "date": "2025-11-04",
     "title": "iOS 26.2 beta (23C5027f)",
     "link": "https://developer.apple.com/news/releases/?id=11042025a"
@@ -28,20 +38,5 @@
     "date": "2025-11-03",
     "title": "iOS 26.1 (23B85)",
     "link": "https://developer.apple.com/news/releases/?id=11032025a"
-  },
-  {
-    "date": "2025-11-03",
-    "title": "iPadOS 26.1 (23B85)",
-    "link": "https://developer.apple.com/news/releases/?id=11032025b"
-  },
-  {
-    "date": "2025-11-03",
-    "title": "macOS 26.1 (25B78)",
-    "link": "https://developer.apple.com/news/releases/?id=11032025c"
-  },
-  {
-    "date": "2025-11-03",
-    "title": "tvOS 26.1 (23J582)",
-    "link": "https://developer.apple.com/news/releases/?id=11032025d"
   }
 ]
