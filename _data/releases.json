@@ -1,5 +1,10 @@
 [
   {
+    "date": "2025-11-06",
+    "title": "macOS 26.2 beta (25C5031i)",
+    "link": "https://developer.apple.com/news/releases/?id=11062025a"
+  },
+  {
     "date": "2025-11-05",
     "title": "iOS 18.7.2 (22H124)",
     "link": "https://developer.apple.com/news/releases/?id=11052025g"
@@ -33,10 +38,5 @@
     "date": "2025-11-04",
     "title": "watchOS 26.2 beta (23S5280e)",
     "link": "https://developer.apple.com/news/releases/?id=11042025f"
-  },
-  {
-    "date": "2025-11-03",
-    "title": "iOS 26.1 (23B85)",
-    "link": "https://developer.apple.com/news/releases/?id=11032025a"
   }
 ]
