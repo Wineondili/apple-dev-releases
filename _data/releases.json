@@ -1,8 +1,33 @@
 [
   {
-    "date": "2025-11-06",
-    "title": "macOS 26.2 beta (25C5031i)",
-    "link": "https://developer.apple.com/news/releases/?id=11062025a"
+    "date": "2025-11-12",
+    "title": "iOS 26.2 beta 2 (23C5033g)",
+    "link": "https://developer.apple.com/news/releases/?id=11122025a"
+  },
+  {
+    "date": "2025-11-12",
+    "title": "iPadOS 26.2 beta 2 (23C5033g)",
+    "link": "https://developer.apple.com/news/releases/?id=11122025b"
+  },
+  {
+    "date": "2025-11-12",
+    "title": "macOS 26.2 beta 2 (25C5037g)",
+    "link": "https://developer.apple.com/news/releases/?id=11122025c"
+  },
+  {
+    "date": "2025-11-12",
+    "title": "tvOS 26.2 beta 2 (23K5035d)",
+    "link": "https://developer.apple.com/news/releases/?id=11122025d"
+  },
+  {
+    "date": "2025-11-12",
+    "title": "visionOS 26.2 beta 2 (23N5285d)",
+    "link": "https://developer.apple.com/news/releases/?id=11122025e"
+  },
+  {
+    "date": "2025-11-12",
+    "title": "watchOS 26.2 beta 2 (23S5286d)",
+    "link": "https://developer.apple.com/news/releases/?id=11122025f"
   },
   {
     "date": "2025-11-05",
@@ -13,30 +38,5 @@
     "date": "2025-11-05",
     "title": "iPadOS 18.7.2 (22H124)",
     "link": "https://developer.apple.com/news/releases/?id=11052025h"
-  },
-  {
-    "date": "2025-11-04",
-    "title": "iOS 26.2 beta (23C5027f)",
-    "link": "https://developer.apple.com/news/releases/?id=11042025a"
-  },
-  {
-    "date": "2025-11-04",
-    "title": "iPadOS 26.2 beta (23C5027f)",
-    "link": "https://developer.apple.com/news/releases/?id=11042025b"
-  },
-  {
-    "date": "2025-11-04",
-    "title": "tvOS 26.2 beta (23K5029e)",
-    "link": "https://developer.apple.com/news/releases/?id=11042025d"
-  },
-  {
-    "date": "2025-11-04",
-    "title": "visionOS 26.2 beta (23N5279e)",
-    "link": "https://developer.apple.com/news/releases/?id=11042025e"
-  },
-  {
-    "date": "2025-11-04",
-    "title": "watchOS 26.2 beta (23S5280e)",
-    "link": "https://developer.apple.com/news/releases/?id=11042025f"
   }
 ]
