@@ -1,5 +1,10 @@
 [
   {
+    "date": "2025-11-18",
+    "title": "Icon Composer for Xcode 26.2 beta 2",
+    "link": "https://developer.apple.com/news/releases/?id=11182025d"
+  },
+  {
     "date": "2025-11-17",
     "title": "iOS 26.2 beta 3 (23C5044b)",
     "link": "https://developer.apple.com/news/releases/?id=11172025a"
@@ -33,10 +38,5 @@
     "date": "2025-11-05",
     "title": "iOS 18.7.2 (22H124)",
     "link": "https://developer.apple.com/news/releases/?id=11052025g"
-  },
-  {
-    "date": "2025-11-05",
-    "title": "iPadOS 18.7.2 (22H124)",
-    "link": "https://developer.apple.com/news/releases/?id=11052025h"
   }
 ]
