@@ -1,42 +1,47 @@
 [
   {
-    "date": "2025-11-18",
-    "title": "visionOS 26.2 beta 3 (23N5296b)",
-    "link": "https://developer.apple.com/news/releases/?id=11182025c"
+    "date": "2025-12-03",
+    "title": "iOS 26.2 RC (23C52)",
+    "link": "https://developer.apple.com/news/releases/?id=12032025a"
+  },
+  {
+    "date": "2025-12-03",
+    "title": "iPadOS 26.2 RC (23C52)",
+    "link": "https://developer.apple.com/news/releases/?id=12032025b"
+  },
+  {
+    "date": "2025-12-03",
+    "title": "macOS 26.2 RC (25C56)",
+    "link": "https://developer.apple.com/news/releases/?id=12032025c"
+  },
+  {
+    "date": "2025-12-03",
+    "title": "tvOS 26.2 RC (23K51)",
+    "link": "https://developer.apple.com/news/releases/?id=12032025d"
+  },
+  {
+    "date": "2025-12-03",
+    "title": "visionOS 26.2 RC (23N301)",
+    "link": "https://developer.apple.com/news/releases/?id=12032025e"
+  },
+  {
+    "date": "2025-12-03",
+    "title": "watchOS 26.2 RC (23S303)",
+    "link": "https://developer.apple.com/news/releases/?id=12032025f"
+  },
+  {
+    "date": "2025-12-03",
+    "title": "iOS 18.7.3 (22H217)",
+    "link": "https://developer.apple.com/news/releases/?id=12032025h"
+  },
+  {
+    "date": "2025-12-03",
+    "title": "iPadOS 18.7.3 (22H217)",
+    "link": "https://developer.apple.com/news/releases/?id=12032025i"
   },
   {
     "date": "2025-11-18",
     "title": "Icon Composer for Xcode 26.2 beta 2",
     "link": "https://developer.apple.com/news/releases/?id=11182025b"
-  },
-  {
-    "date": "2025-11-17",
-    "title": "iOS 26.2 beta 3 (23C5044b)",
-    "link": "https://developer.apple.com/news/releases/?id=11172025a"
-  },
-  {
-    "date": "2025-11-17",
-    "title": "iPadOS 26.2 beta 3 (23C5044b)",
-    "link": "https://developer.apple.com/news/releases/?id=11172025b"
-  },
-  {
-    "date": "2025-11-17",
-    "title": "macOS 26.2 beta 3 (25C5048a)",
-    "link": "https://developer.apple.com/news/releases/?id=11172025c"
-  },
-  {
-    "date": "2025-11-17",
-    "title": "tvOS 26.2 beta 3 (23K5046a)",
-    "link": "https://developer.apple.com/news/releases/?id=11172025d"
-  },
-  {
-    "date": "2025-11-17",
-    "title": "watchOS 26.2 beta 3 (23S5297b)",
-    "link": "https://developer.apple.com/news/releases/?id=11172025e"
-  },
-  {
-    "date": "2025-11-05",
-    "title": "iOS 18.7.2 (22H124)",
-    "link": "https://developer.apple.com/news/releases/?id=11052025g"
   }
 ]
