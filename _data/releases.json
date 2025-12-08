@@ -1,8 +1,13 @@
 [
   {
-    "date": "2025-12-03",
-    "title": "iOS 26.2 RC (23C52)",
-    "link": "https://developer.apple.com/news/releases/?id=12032025a"
+    "date": "2025-12-08",
+    "title": "iOS 26.2 RC 2 (23C54)",
+    "link": "https://developer.apple.com/news/releases/?id=12082025a"
+  },
+  {
+    "date": "2025-12-04",
+    "title": "tvOS 26.2 RC 2 (23K53)",
+    "link": "https://developer.apple.com/news/releases/?id=12032025d"
   },
   {
     "date": "2025-12-03",
@@ -13,11 +18,6 @@
     "date": "2025-12-03",
     "title": "macOS 26.2 RC (25C56)",
     "link": "https://developer.apple.com/news/releases/?id=12032025c"
-  },
-  {
-    "date": "2025-12-03",
-    "title": "tvOS 26.2 RC (23K51)",
-    "link": "https://developer.apple.com/news/releases/?id=12032025d"
   },
   {
     "date": "2025-12-03",
