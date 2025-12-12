@@ -1,6 +1,11 @@
 [
   {
     "date": "2025-12-12",
+    "title": "Icon Composer for Xcode 26.2",
+    "link": "https://developer.apple.com/news/releases/?id=12122025j"
+  },
+  {
+    "date": "2025-12-12",
     "title": "iOS 26.2 (23C55)",
     "link": "https://developer.apple.com/news/releases/?id=12122025a"
   },
@@ -28,5 +33,10 @@
     "date": "2025-12-12",
     "title": "watchOS 26.2 (23S303)",
     "link": "https://developer.apple.com/news/releases/?id=12122025f"
+  },
+  {
+    "date": "2025-12-12",
+    "title": "iOS 18.7.3 (22H217)",
+    "link": "https://developer.apple.com/news/releases/?id=12122025g"
   }
 ]
