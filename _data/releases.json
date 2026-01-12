@@ -1,42 +1,37 @@
 [
   {
-    "date": "2025-12-15",
-    "title": "iOS 26.3 beta (23D5089e)",
-    "link": "https://developer.apple.com/news/releases/?id=12152025a"
+    "date": "2026-01-12",
+    "title": "iOS 26.3 beta 2 (23D5103d)",
+    "link": "https://developer.apple.com/news/releases/?id=01122026a"
   },
   {
-    "date": "2025-12-15",
-    "title": "iPadOS 26.3 beta (23D5089e)",
-    "link": "https://developer.apple.com/news/releases/?id=12152025b"
+    "date": "2026-01-12",
+    "title": "iPadOS 26.3 beta2 (23D5103d)",
+    "link": "https://developer.apple.com/news/releases/?id=01122026b"
   },
   {
-    "date": "2025-12-15",
-    "title": "macOS 26.3 beta (25D5087f)",
-    "link": "https://developer.apple.com/news/releases/?id=12152025c"
+    "date": "2026-01-12",
+    "title": "macOS 26.3 beta 2 (25D5101c)",
+    "link": "https://developer.apple.com/news/releases/?id=01122026c"
   },
   {
-    "date": "2025-12-15",
-    "title": "tvOS 26.3 beta (23K5585c)",
-    "link": "https://developer.apple.com/news/releases/?id=12152025d"
+    "date": "2026-01-12",
+    "title": "tvOS 26.3 beta 2 (23K5600b)",
+    "link": "https://developer.apple.com/news/releases/?id=01122026d"
   },
   {
-    "date": "2025-12-15",
-    "title": "visionOS 26.3 beta (23N5588c)",
-    "link": "https://developer.apple.com/news/releases/?id=12152025e"
+    "date": "2026-01-12",
+    "title": "visionOS 26.3 beta 2 (23N5602d)",
+    "link": "https://developer.apple.com/news/releases/?id=01122026e"
   },
   {
-    "date": "2025-12-15",
-    "title": "watchOS 26.3 beta (23S5586d)",
-    "link": "https://developer.apple.com/news/releases/?id=12152025f"
+    "date": "2026-01-12",
+    "title": "watchOS 26.3 beta 2 (23S5600d)",
+    "link": "https://developer.apple.com/news/releases/?id=01122026f"
   },
   {
     "date": "2025-12-12",
     "title": "Icon Composer for Xcode 26.2",
     "link": "https://developer.apple.com/news/releases/?id=12122025j"
-  },
-  {
-    "date": "2025-12-12",
-    "title": "iOS 26.2 (23C55)",
-    "link": "https://developer.apple.com/news/releases/?id=12122025a"
   }
 ]
