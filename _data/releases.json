@@ -1,6 +1,36 @@
 [
   {
     "date": "2026-01-26",
+    "title": "iOS 26.3 beta 3 (23D5114d)",
+    "link": "https://developer.apple.com/news/releases/?id=01262026l"
+  },
+  {
+    "date": "2026-01-26",
+    "title": "iPadOS 26.3 beta 3 (23D5114d)",
+    "link": "https://developer.apple.com/news/releases/?id=01262026m"
+  },
+  {
+    "date": "2026-01-26",
+    "title": "macOS 26.3 beta 3 (25D5112c)",
+    "link": "https://developer.apple.com/news/releases/?id=01262026n"
+  },
+  {
+    "date": "2026-01-26",
+    "title": "tvOS 26.3 beta 3 (23K5611c)",
+    "link": "https://developer.apple.com/news/releases/?id=01262026o"
+  },
+  {
+    "date": "2026-01-26",
+    "title": "visionOS 26.3 beta 3 (23N5613b)",
+    "link": "https://developer.apple.com/news/releases/?id=01262026p"
+  },
+  {
+    "date": "2026-01-26",
+    "title": "watchOS 26.3 beta 3 (23S5611c)",
+    "link": "https://developer.apple.com/news/releases/?id=01262026q"
+  },
+  {
+    "date": "2026-01-26",
     "title": "iOS 26.2.1 (23C71)",
     "link": "https://developer.apple.com/news/releases/?id=01262026a"
   },
@@ -18,35 +48,5 @@
     "date": "2026-01-26",
     "title": "iOS 18.7.4 (22H218)",
     "link": "https://developer.apple.com/news/releases/?id=01262026d"
-  },
-  {
-    "date": "2026-01-26",
-    "title": "iPadOS 18.7.4 (22H218)",
-    "link": "https://developer.apple.com/news/releases/?id=01262026e"
-  },
-  {
-    "date": "2026-01-26",
-    "title": "iOS 16.7.13 (20H365)",
-    "link": "https://developer.apple.com/news/releases/?id=01262026f"
-  },
-  {
-    "date": "2026-01-26",
-    "title": "iPadOS 16.7.13 (20H365)",
-    "link": "https://developer.apple.com/news/releases/?id=01262026g"
-  },
-  {
-    "date": "2026-01-26",
-    "title": "iOS 15.8.6 (19H402)",
-    "link": "https://developer.apple.com/news/releases/?id=01262026h"
-  },
-  {
-    "date": "2026-01-26",
-    "title": "iPadOS 15.8.6 (19H402)",
-    "link": "https://developer.apple.com/news/releases/?id=01262026i"
-  },
-  {
-    "date": "2026-01-26",
-    "title": "iOS 12.5.8 (16H88)",
-    "link": "https://developer.apple.com/news/releases/?id=01262026j"
   }
 ]
