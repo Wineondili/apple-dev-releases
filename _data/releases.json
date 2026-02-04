@@ -1,52 +1,42 @@
 [
   {
-    "date": "2026-02-02",
-    "title": "iOS 16.7.14 (20H370)",
+    "date": "2026-02-04",
+    "title": "26.3 iOS RC (23D125)",
     "link": "https://developer.apple.com/news/releases/?id=02022026a"
   },
   {
-    "date": "2026-02-02",
-    "title": "iPadOS 16.7.14 (20H370)",
+    "date": "2026-02-04",
+    "title": "iPadOS 26.3 RC (23D125)",
     "link": "https://developer.apple.com/news/releases/?id=02022026b"
   },
   {
-    "date": "2026-01-26",
-    "title": "iOS 26.3 beta 3 (23D5114d)",
-    "link": "https://developer.apple.com/news/releases/?id=01262026l"
+    "date": "2026-02-04",
+    "title": "macOS 26.3 RC (25D122)",
+    "link": "https://developer.apple.com/news/releases/?id=02022026c"
   },
   {
-    "date": "2026-01-26",
-    "title": "iPadOS 26.3 beta 3 (23D5114d)",
-    "link": "https://developer.apple.com/news/releases/?id=01262026m"
+    "date": "2026-02-04",
+    "title": "tvOS 26.3 RC (23K619)",
+    "link": "https://developer.apple.com/news/releases/?id=02022026d"
   },
   {
-    "date": "2026-01-26",
-    "title": "macOS 26.3 beta 3 (25D5112c)",
-    "link": "https://developer.apple.com/news/releases/?id=01262026n"
+    "date": "2026-02-04",
+    "title": "visionOS 26.3 RC (23N619)",
+    "link": "https://developer.apple.com/news/releases/?id=02022026e"
   },
   {
-    "date": "2026-01-26",
-    "title": "tvOS 26.3 beta 3 (23K5611c)",
-    "link": "https://developer.apple.com/news/releases/?id=01262026o"
+    "date": "2026-02-04",
+    "title": "watchOS 26.3 RC (23S618)",
+    "link": "https://developer.apple.com/news/releases/?id=02022026f"
   },
   {
-    "date": "2026-01-26",
-    "title": "visionOS 26.3 beta 3 (23N5613b)",
-    "link": "https://developer.apple.com/news/releases/?id=01262026p"
+    "date": "2026-02-04",
+    "title": "iOS 18.7.5 (22H311)",
+    "link": "https://developer.apple.com/news/releases/?id=02022026g"
   },
   {
-    "date": "2026-01-26",
-    "title": "watchOS 26.3 beta 3 (23S5611c)",
-    "link": "https://developer.apple.com/news/releases/?id=01262026q"
-  },
-  {
-    "date": "2026-01-26",
-    "title": "iOS 26.2.1 (23C71)",
-    "link": "https://developer.apple.com/news/releases/?id=01262026a"
-  },
-  {
-    "date": "2026-01-26",
-    "title": "iPadOS 26.2.1 (23C71)",
-    "link": "https://developer.apple.com/news/releases/?id=01262026b"
+    "date": "2026-02-04",
+    "title": "iPadOS 18.7.5 (22H311)",
+    "link": "https://developer.apple.com/news/releases/?id=02022026h"
   }
 ]
