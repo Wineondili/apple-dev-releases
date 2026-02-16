@@ -1,5 +1,35 @@
 [
   {
+    "date": "2026-02-16",
+    "title": "iOS 26.4 beta (23E5207q)",
+    "link": "https://developer.apple.com/news/releases/?id=02162026a"
+  },
+  {
+    "date": "2026-02-16",
+    "title": "iPadOS 26.4 beta (23E5207q)",
+    "link": "https://developer.apple.com/news/releases/?id=02162026b"
+  },
+  {
+    "date": "2026-02-16",
+    "title": "macOS 26.4 beta (25E5207k)",
+    "link": "https://developer.apple.com/news/releases/?id=02162026c"
+  },
+  {
+    "date": "2026-02-16",
+    "title": "tvOS 26.4 beta (23L5208m)",
+    "link": "https://developer.apple.com/news/releases/?id=02162026d"
+  },
+  {
+    "date": "2026-02-16",
+    "title": "visionOS 26.4 beta (23O5209m)",
+    "link": "https://developer.apple.com/news/releases/?id=02162026e"
+  },
+  {
+    "date": "2026-02-16",
+    "title": "watchOS 26.4 beta (23T5209m)",
+    "link": "https://developer.apple.com/news/releases/?id=02162026f"
+  },
+  {
     "date": "2026-02-11",
     "title": "iOS 26.3 (23D127)",
     "link": "https://developer.apple.com/news/releases/?id=02112026a"
@@ -13,30 +43,5 @@
     "date": "2026-02-11",
     "title": "macOS 26.3 (25D125)",
     "link": "https://developer.apple.com/news/releases/?id=02112026c"
-  },
-  {
-    "date": "2026-02-11",
-    "title": "tvOS 26.3 (23K620)",
-    "link": "https://developer.apple.com/news/releases/?id=02112026d"
-  },
-  {
-    "date": "2026-02-11",
-    "title": "visionOS 26.3 (23N620)",
-    "link": "https://developer.apple.com/news/releases/?id=02112026e"
-  },
-  {
-    "date": "2026-02-11",
-    "title": "watchOS 26.3 (23S620)",
-    "link": "https://developer.apple.com/news/releases/?id=02112026f"
-  },
-  {
-    "date": "2026-02-04",
-    "title": "iOS 18.7.5 (22H311)",
-    "link": "https://developer.apple.com/news/releases/?id=02042026g"
-  },
-  {
-    "date": "2026-02-04",
-    "title": "iPadOS 18.7.5 (22H311)",
-    "link": "https://developer.apple.com/news/releases/?id=02042026h"
   }
 ]
