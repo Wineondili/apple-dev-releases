@@ -1,47 +1,32 @@
 [
   {
-    "date": "2026-02-16",
-    "title": "iOS 26.4 beta (23E5207q)",
-    "link": "https://developer.apple.com/news/releases/?id=02162026a"
+    "date": "2026-02-23",
+    "title": "iOS 26.4 beta 2 (23E5218e)",
+    "link": "https://developer.apple.com/news/releases/?id=02232026a"
   },
   {
-    "date": "2026-02-16",
-    "title": "iPadOS 26.4 beta (23E5207q)",
-    "link": "https://developer.apple.com/news/releases/?id=02162026b"
+    "date": "2026-02-23",
+    "title": "iPadOS 26.4 beta 2 (23E5218e)",
+    "link": "https://developer.apple.com/news/releases/?id=02232026b"
   },
   {
-    "date": "2026-02-16",
-    "title": "macOS 26.4 beta (25E5207k)",
-    "link": "https://developer.apple.com/news/releases/?id=02162026c"
+    "date": "2026-02-23",
+    "title": "macOS 26.4 beta 2 (25E5218f)",
+    "link": "https://developer.apple.com/news/releases/?id=02232026c"
   },
   {
-    "date": "2026-02-16",
-    "title": "tvOS 26.4 beta (23L5208m)",
-    "link": "https://developer.apple.com/news/releases/?id=02162026d"
+    "date": "2026-02-23",
+    "title": "tvOS 26.4 beta 2 (23L5219e)",
+    "link": "https://developer.apple.com/news/releases/?id=02232026d"
   },
   {
-    "date": "2026-02-16",
-    "title": "visionOS 26.4 beta (23O5209m)",
-    "link": "https://developer.apple.com/news/releases/?id=02162026e"
+    "date": "2026-02-23",
+    "title": "visionOS 26.4 beta 2 (23O5220e)",
+    "link": "https://developer.apple.com/news/releases/?id=02232026e"
   },
   {
-    "date": "2026-02-16",
-    "title": "watchOS 26.4 beta (23T5209m)",
-    "link": "https://developer.apple.com/news/releases/?id=02162026f"
-  },
-  {
-    "date": "2026-02-11",
-    "title": "iOS 26.3 (23D127)",
-    "link": "https://developer.apple.com/news/releases/?id=02112026a"
-  },
-  {
-    "date": "2026-02-11",
-    "title": "iPadOS 26.3 (23D127)",
-    "link": "https://developer.apple.com/news/releases/?id=02112026b"
-  },
-  {
-    "date": "2026-02-11",
-    "title": "macOS 26.3 (25D125)",
-    "link": "https://developer.apple.com/news/releases/?id=02112026c"
+    "date": "2026-02-23",
+    "title": "watchOS 26.4 beta 2 (23T5221e)",
+    "link": "https://developer.apple.com/news/releases/?id=02232026f"
   }
 ]
