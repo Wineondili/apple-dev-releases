@@ -1,5 +1,10 @@
 [
   {
+    "date": "2026-02-26",
+    "title": "visionOS 26.3.1 (23N630)",
+    "link": "https://developer.apple.com/news/releases/?id=02262026c"
+  },
+  {
     "date": "2026-02-23",
     "title": "iOS 26.4 beta 2 (23E5218e)",
     "link": "https://developer.apple.com/news/releases/?id=02232026a"
@@ -23,10 +28,5 @@
     "date": "2026-02-23",
     "title": "visionOS 26.4 beta 2 (23O5220e)",
     "link": "https://developer.apple.com/news/releases/?id=02232026e"
-  },
-  {
-    "date": "2026-02-23",
-    "title": "watchOS 26.4 beta 2 (23T5221e)",
-    "link": "https://developer.apple.com/news/releases/?id=02232026f"
   }
 ]
