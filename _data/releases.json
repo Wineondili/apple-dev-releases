@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-03-04",
+    "title": "iOS 26.3.1 (23D8133)",
+    "link": "https://developer.apple.com/news/releases/?id=03042026a"
+  },
+  {
+    "date": "2026-03-04",
+    "title": "iPadOS 26.3.1 (23D8133)",
+    "link": "https://developer.apple.com/news/releases/?id=03042026b"
+  },
+  {
+    "date": "2026-03-04",
+    "title": "macOS 26.3.1 (25D2128)",
+    "link": "https://developer.apple.com/news/releases/?id=03042026c"
+  },
+  {
+    "date": "2026-03-04",
+    "title": "iOS 18.7.6 (22H320)",
+    "link": "https://developer.apple.com/news/releases/?id=03042026d"
+  },
+  {
     "date": "2026-03-03",
     "title": "macOS 26.4 beta 3 (25E5223i)",
     "link": "https://developer.apple.com/news/releases/?id=03032026a"
@@ -28,10 +48,5 @@
     "date": "2026-03-02",
     "title": "watchOS 26.4 beta 3 (23T5226e)",
     "link": "https://developer.apple.com/news/releases/?id=03022026f"
-  },
-  {
-    "date": "2026-02-26",
-    "title": "visionOS 26.3.1 (23N630)",
-    "link": "https://developer.apple.com/news/releases/?id=02262026c"
   }
 ]
