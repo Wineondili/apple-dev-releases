@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-03-05",
+    "title": "iOS 26.4 beta 3 v.2 (23E5223k)",
+    "link": "https://developer.apple.com/news/releases/?id=03052026a"
+  },
+  {
+    "date": "2026-03-05",
+    "title": "iPadOS 26.4 beta 3 v.2 (23E5223k)",
+    "link": "https://developer.apple.com/news/releases/?id=03052026b"
+  },
+  {
+    "date": "2026-03-05",
+    "title": "watchOS 26.4 beta 3 v.2 (23T5226i)",
+    "link": "https://developer.apple.com/news/releases/?id=03052026c"
+  },
+  {
     "date": "2026-03-04",
     "title": "iOS 26.3.1 (23D8133)",
     "link": "https://developer.apple.com/news/releases/?id=03042026a"
@@ -26,16 +41,6 @@
   },
   {
     "date": "2026-03-02",
-    "title": "iOS 26.4 beta 3 (23E5223f)",
-    "link": "https://developer.apple.com/news/releases/?id=03022026a"
-  },
-  {
-    "date": "2026-03-02",
-    "title": "iPadOS 26.4 beta 3 (23E5223f)",
-    "link": "https://developer.apple.com/news/releases/?id=03022026b"
-  },
-  {
-    "date": "2026-03-02",
     "title": "tvOS 26.4 beta 3 (23L5224d)",
     "link": "https://developer.apple.com/news/releases/?id=03022026d"
   },
@@ -43,10 +48,5 @@
     "date": "2026-03-02",
     "title": "visionOS 26.4 beta 3 (23O5225f)",
     "link": "https://developer.apple.com/news/releases/?id=03022026e"
-  },
-  {
-    "date": "2026-03-02",
-    "title": "watchOS 26.4 beta 3 (23T5226e)",
-    "link": "https://developer.apple.com/news/releases/?id=03022026f"
   }
 ]
