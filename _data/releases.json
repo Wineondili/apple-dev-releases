@@ -1,18 +1,33 @@
 [
   {
-    "date": "2026-03-05",
-    "title": "iOS 26.4 beta 3 v.2 (23E5223k)",
-    "link": "https://developer.apple.com/news/releases/?id=03052026a"
+    "date": "2026-03-09",
+    "title": "iOS 26.4 beta 4 (23E5234a)",
+    "link": "https://developer.apple.com/news/releases/?id=03092026a"
   },
   {
-    "date": "2026-03-05",
-    "title": "iPadOS 26.4 beta 3 v.2 (23E5223k)",
-    "link": "https://developer.apple.com/news/releases/?id=03052026b"
+    "date": "2026-03-09",
+    "title": "iPadOS 26.4 beta 4 (23E5234a)",
+    "link": "https://developer.apple.com/news/releases/?id=03092026b"
   },
   {
-    "date": "2026-03-05",
-    "title": "watchOS 26.4 beta 3 v.2 (23T5226i)",
-    "link": "https://developer.apple.com/news/releases/?id=03052026c"
+    "date": "2026-03-09",
+    "title": "macOS 26.4 beta 4 (25E5233c)",
+    "link": "https://developer.apple.com/news/releases/?id=03092026c"
+  },
+  {
+    "date": "2026-03-09",
+    "title": "tvOS 26.4 beta 4 (23L5234a)",
+    "link": "https://developer.apple.com/news/releases/?id=03092026d"
+  },
+  {
+    "date": "2026-03-09",
+    "title": "visionOS 26.4 beta 4 (23O5235a)",
+    "link": "https://developer.apple.com/news/releases/?id=03092026e"
+  },
+  {
+    "date": "2026-03-09",
+    "title": "watchOS 26.4 beta 4 (23T5236a)",
+    "link": "https://developer.apple.com/news/releases/?id=03092026f"
   },
   {
     "date": "2026-03-04",
@@ -33,20 +48,5 @@
     "date": "2026-03-04",
     "title": "iOS 18.7.6 (22H320)",
     "link": "https://developer.apple.com/news/releases/?id=03042026d"
-  },
-  {
-    "date": "2026-03-03",
-    "title": "macOS 26.4 beta 3 (25E5223i)",
-    "link": "https://developer.apple.com/news/releases/?id=03032026a"
-  },
-  {
-    "date": "2026-03-02",
-    "title": "tvOS 26.4 beta 3 (23L5224d)",
-    "link": "https://developer.apple.com/news/releases/?id=03022026d"
-  },
-  {
-    "date": "2026-03-02",
-    "title": "visionOS 26.4 beta 3 (23O5225f)",
-    "link": "https://developer.apple.com/news/releases/?id=03022026e"
   }
 ]
