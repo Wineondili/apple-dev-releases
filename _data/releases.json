@@ -1,5 +1,10 @@
 [
   {
+    "date": "2026-03-10",
+    "title": "macOS 26.3.2 (25D2140)",
+    "link": "https://developer.apple.com/news/releases/?id=03102026a"
+  },
+  {
     "date": "2026-03-09",
     "title": "iOS 26.4 beta 4 (23E5234a)",
     "link": "https://developer.apple.com/news/releases/?id=03092026a"
@@ -38,15 +43,5 @@
     "date": "2026-03-04",
     "title": "iPadOS 26.3.1 (23D8133)",
     "link": "https://developer.apple.com/news/releases/?id=03042026b"
-  },
-  {
-    "date": "2026-03-04",
-    "title": "macOS 26.3.1 (25D2128)",
-    "link": "https://developer.apple.com/news/releases/?id=03042026c"
-  },
-  {
-    "date": "2026-03-04",
-    "title": "iOS 18.7.6 (22H320)",
-    "link": "https://developer.apple.com/news/releases/?id=03042026d"
   }
 ]
