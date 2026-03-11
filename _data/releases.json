@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-03-11",
+    "title": "iOS 16.7.15 (20H380)",
+    "link": "https://developer.apple.com/news/releases/?id=03112026a"
+  },
+  {
+    "date": "2026-03-11",
+    "title": "iPadOS 16.7.15 (20H380)",
+    "link": "https://developer.apple.com/news/releases/?id=03112026b"
+  },
+  {
+    "date": "2026-03-11",
+    "title": "iOS 15.8.7 (19H411)",
+    "link": "https://developer.apple.com/news/releases/?id=03112026c"
+  },
+  {
+    "date": "2026-03-11",
+    "title": "iPadOS 15.8.7 (19H411)",
+    "link": "https://developer.apple.com/news/releases/?id=03112026d"
+  },
+  {
     "date": "2026-03-10",
     "title": "macOS 26.3.2 (25D2140)",
     "link": "https://developer.apple.com/news/releases/?id=03102026a"
@@ -13,35 +33,5 @@
     "date": "2026-03-09",
     "title": "iPadOS 26.4 beta 4 (23E5234a)",
     "link": "https://developer.apple.com/news/releases/?id=03092026b"
-  },
-  {
-    "date": "2026-03-09",
-    "title": "macOS 26.4 beta 4 (25E5233c)",
-    "link": "https://developer.apple.com/news/releases/?id=03092026c"
-  },
-  {
-    "date": "2026-03-09",
-    "title": "tvOS 26.4 beta 4 (23L5234a)",
-    "link": "https://developer.apple.com/news/releases/?id=03092026d"
-  },
-  {
-    "date": "2026-03-09",
-    "title": "visionOS 26.4 beta 4 (23O5235a)",
-    "link": "https://developer.apple.com/news/releases/?id=03092026e"
-  },
-  {
-    "date": "2026-03-09",
-    "title": "watchOS 26.4 beta 4 (23T5236a)",
-    "link": "https://developer.apple.com/news/releases/?id=03092026f"
-  },
-  {
-    "date": "2026-03-04",
-    "title": "iOS 26.3.1 (23D8133)",
-    "link": "https://developer.apple.com/news/releases/?id=03042026a"
-  },
-  {
-    "date": "2026-03-04",
-    "title": "iPadOS 26.3.1 (23D8133)",
-    "link": "https://developer.apple.com/news/releases/?id=03042026b"
   }
 ]
