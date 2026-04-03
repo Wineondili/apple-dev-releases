@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-04-03",
+    "title": "iOS 26.5 beta 1 (v2) (23F5043k)",
+    "link": "https://developer.apple.com/news/releases/?id=04032026a"
+  },
+  {
+    "date": "2026-04-03",
+    "title": "iPadOS 26.5 beta 1 (v2) (23F5043k)",
+    "link": "https://developer.apple.com/news/releases/?id=04032026b"
+  },
+  {
     "date": "2026-04-01",
     "title": "iOS 18.7.7 (22H340)",
     "link": "https://developer.apple.com/news/releases/?id=04012026a"
@@ -8,16 +18,6 @@
     "date": "2026-04-01",
     "title": "iPadOS 18.7.7 (22H340)",
     "link": "https://developer.apple.com/news/releases/?id=04012026b"
-  },
-  {
-    "date": "2026-03-30",
-    "title": "iOS 26.5 beta (23F5043g)",
-    "link": "https://developer.apple.com/news/releases/?id=03302026a"
-  },
-  {
-    "date": "2026-03-30",
-    "title": "iPadOS 26.5 beta (23F5043g)",
-    "link": "https://developer.apple.com/news/releases/?id=03302026b"
   },
   {
     "date": "2026-03-30",
@@ -33,10 +33,5 @@
     "date": "2026-03-30",
     "title": "visionOS 26.5 beta (23O5441g)",
     "link": "https://developer.apple.com/news/releases/?id=03302026e"
-  },
-  {
-    "date": "2026-03-30",
-    "title": "watchOS 26.5 beta (23T5541h)",
-    "link": "https://developer.apple.com/news/releases/?id=03302026f"
   }
 ]
