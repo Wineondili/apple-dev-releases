@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-04-08",
+    "title": "iOS 26.4.1 (23E254)",
+    "link": "https://developer.apple.com/news/releases/?id=04082026a"
+  },
+  {
+    "date": "2026-04-08",
+    "title": "iPadOS 26.4.1 (23E254)",
+    "link": "https://developer.apple.com/news/releases/?id=04082026b"
+  },
+  {
     "date": "2026-04-03",
     "title": "iOS 26.5 beta 1 (v2) (23F5043k)",
     "link": "https://developer.apple.com/news/releases/?id=04032026a"
@@ -23,15 +33,5 @@
     "date": "2026-03-30",
     "title": "macOS 26.5 beta (25F5042g)",
     "link": "https://developer.apple.com/news/releases/?id=03302026c"
-  },
-  {
-    "date": "2026-03-30",
-    "title": "tvOS 26.5 beta (23L5443g)",
-    "link": "https://developer.apple.com/news/releases/?id=03302026d"
-  },
-  {
-    "date": "2026-03-30",
-    "title": "visionOS 26.5 beta (23O5441g)",
-    "link": "https://developer.apple.com/news/releases/?id=03302026e"
   }
 ]
