@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-04-22",
+    "title": "iOS 26.4.2 (23E261)",
+    "link": "https://developer.apple.com/news/releases/?id=04222026a"
+  },
+  {
+    "date": "2026-04-22",
+    "title": "iPadOS 26.4.2 (23E261)",
+    "link": "https://developer.apple.com/news/releases/?id=04222026b"
+  },
+  {
+    "date": "2026-04-22",
+    "title": "iOS 18.7.8 (22H352)",
+    "link": "https://developer.apple.com/news/releases/?id=04222026c"
+  },
+  {
+    "date": "2026-04-22",
+    "title": "iPadOS 18.7.8 (22H352)",
+    "link": "https://developer.apple.com/news/releases/?id=04222026d"
+  },
+  {
     "date": "2026-04-20",
     "title": "iOS 26.5 beta 3 (23F5059e)",
     "link": "https://developer.apple.com/news/releases/?id=04202026a"
