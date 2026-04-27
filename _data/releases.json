@@ -1,5 +1,35 @@
 [
   {
+    "date": "2026-04-27",
+    "title": "iOS 26.5 beta 4 (23F5069b)",
+    "link": "https://developer.apple.com/news/releases/?id=04272026a"
+  },
+  {
+    "date": "2026-04-27",
+    "title": "iPadOS 26.5 beta 4 (23F5069b)",
+    "link": "https://developer.apple.com/news/releases/?id=04272026b"
+  },
+  {
+    "date": "2026-04-27",
+    "title": "macOS 26.5 beta 4 (25F5068a)",
+    "link": "https://developer.apple.com/news/releases/?id=04272026c"
+  },
+  {
+    "date": "2026-04-27",
+    "title": "tvOS 26.5 beta 4 (23L5469a)",
+    "link": "https://developer.apple.com/news/releases/?id=04272026d"
+  },
+  {
+    "date": "2026-04-27",
+    "title": "visionOS 26.5 beta 4 (23O5468a)",
+    "link": "https://developer.apple.com/news/releases/?id=04272026e"
+  },
+  {
+    "date": "2026-04-27",
+    "title": "watchOS 26.5 beta 4 (23T5568a)",
+    "link": "https://developer.apple.com/news/releases/?id=04272026f"
+  },
+  {
     "date": "2026-04-22",
     "title": "iOS 26.4.2 (23E261)",
     "link": "https://developer.apple.com/news/releases/?id=04222026a"
@@ -13,40 +43,5 @@
     "date": "2026-04-22",
     "title": "iOS 18.7.8 (22H352)",
     "link": "https://developer.apple.com/news/releases/?id=04222026c"
-  },
-  {
-    "date": "2026-04-22",
-    "title": "iPadOS 18.7.8 (22H352)",
-    "link": "https://developer.apple.com/news/releases/?id=04222026d"
-  },
-  {
-    "date": "2026-04-20",
-    "title": "iOS 26.5 beta 3 (23F5059e)",
-    "link": "https://developer.apple.com/news/releases/?id=04202026a"
-  },
-  {
-    "date": "2026-04-20",
-    "title": "iPadOS 26.5 beta 3 (23F5059e)",
-    "link": "https://developer.apple.com/news/releases/?id=04202026b"
-  },
-  {
-    "date": "2026-04-20",
-    "title": "macOS 26.5 beta 3 (25F5058e)",
-    "link": "https://developer.apple.com/news/releases/?id=04202026c"
-  },
-  {
-    "date": "2026-04-20",
-    "title": "tvOS 26.5 beta 3 (23L5460d)",
-    "link": "https://developer.apple.com/news/releases/?id=04202026d"
-  },
-  {
-    "date": "2026-04-20",
-    "title": "visionOS 26.5 beta 3 (23O5458e)",
-    "link": "https://developer.apple.com/news/releases/?id=04202026e"
-  },
-  {
-    "date": "2026-04-20",
-    "title": "watchOS 26.5 beta 3 (23T5558e)",
-    "link": "https://developer.apple.com/news/releases/?id=04202026f"
   }
 ]
