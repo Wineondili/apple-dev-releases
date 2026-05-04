@@ -1,47 +1,42 @@
 [
   {
-    "date": "2026-04-27",
-    "title": "iOS 26.5 beta 4 (23F5069b)",
-    "link": "https://developer.apple.com/news/releases/?id=04272026a"
+    "date": "2026-05-04",
+    "title": "iOS 26.5 RC (23F75)",
+    "link": "https://developer.apple.com/news/releases/?id=05042026a"
   },
   {
-    "date": "2026-04-27",
-    "title": "iPadOS 26.5 beta 4 (23F5069b)",
-    "link": "https://developer.apple.com/news/releases/?id=04272026b"
+    "date": "2026-05-04",
+    "title": "iPadOS 26.5 RC (23F75)",
+    "link": "https://developer.apple.com/news/releases/?id=05042026b"
   },
   {
-    "date": "2026-04-27",
-    "title": "macOS 26.5 beta 4 (25F5068a)",
-    "link": "https://developer.apple.com/news/releases/?id=04272026c"
+    "date": "2026-05-04",
+    "title": "macOS 26.5 RC (25F71)",
+    "link": "https://developer.apple.com/news/releases/?id=05042026c"
   },
   {
-    "date": "2026-04-27",
-    "title": "tvOS 26.5 beta 4 (23L5469a)",
-    "link": "https://developer.apple.com/news/releases/?id=04272026d"
+    "date": "2026-05-04",
+    "title": "tvOS 26.5 RC (23L471)",
+    "link": "https://developer.apple.com/news/releases/?id=05042026d"
   },
   {
-    "date": "2026-04-27",
-    "title": "visionOS 26.5 beta 4 (23O5468a)",
-    "link": "https://developer.apple.com/news/releases/?id=04272026e"
+    "date": "2026-05-04",
+    "title": "visionOS 26.5 RC (23O471)",
+    "link": "https://developer.apple.com/news/releases/?id=05042026e"
   },
   {
-    "date": "2026-04-27",
-    "title": "watchOS 26.5 beta 4 (23T5568a)",
-    "link": "https://developer.apple.com/news/releases/?id=04272026f"
+    "date": "2026-05-04",
+    "title": "watchOS 26.5 RC (23T570)",
+    "link": "https://developer.apple.com/news/releases/?id=05042026f"
   },
   {
-    "date": "2026-04-22",
-    "title": "iOS 26.4.2 (23E261)",
-    "link": "https://developer.apple.com/news/releases/?id=04222026a"
+    "date": "2026-05-04",
+    "title": "iOS 18.7.9 (22H355)",
+    "link": "https://developer.apple.com/news/releases/?id=05042026g"
   },
   {
-    "date": "2026-04-22",
-    "title": "iPadOS 26.4.2 (23E261)",
-    "link": "https://developer.apple.com/news/releases/?id=04222026b"
-  },
-  {
-    "date": "2026-04-22",
-    "title": "iOS 18.7.8 (22H352)",
-    "link": "https://developer.apple.com/news/releases/?id=04222026c"
+    "date": "2026-05-04",
+    "title": "iPadOS 18.7.9 (22H355)",
+    "link": "https://developer.apple.com/news/releases/?id=05042026h"
   }
 ]
