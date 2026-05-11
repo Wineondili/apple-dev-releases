@@ -1,42 +1,47 @@
 [
   {
-    "date": "2026-05-08",
-    "title": "iOS 26.5 RC 2 (23F77)",
-    "link": "https://developer.apple.com/news/releases/?id=05082026a"
+    "date": "2026-05-11",
+    "title": "iOS 26.5 (23F77)",
+    "link": "https://developer.apple.com/news/releases/?id=05112026a"
   },
   {
-    "date": "2026-05-08",
-    "title": "iPadOS 26.5 RC 2 (23F77)",
-    "link": "https://developer.apple.com/news/releases/?id=05082026b"
+    "date": "2026-05-11",
+    "title": "iPadOS 26.5 (23F77)",
+    "link": "https://developer.apple.com/news/releases/?id=05112026b"
   },
   {
-    "date": "2026-05-04",
-    "title": "macOS 26.5 RC (25F71)",
-    "link": "https://developer.apple.com/news/releases/?id=05042026c"
+    "date": "2026-05-11",
+    "title": "macOS 26.5 (25F71)",
+    "link": "https://developer.apple.com/news/releases/?id=05112026c"
   },
   {
-    "date": "2026-05-04",
-    "title": "tvOS 26.5 RC (23L471)",
-    "link": "https://developer.apple.com/news/releases/?id=05042026d"
+    "date": "2026-05-11",
+    "title": "tvOS 26.5 (23L471)",
+    "link": "https://developer.apple.com/news/releases/?id=05112026d"
   },
   {
-    "date": "2026-05-04",
-    "title": "visionOS 26.5 RC (23O471)",
-    "link": "https://developer.apple.com/news/releases/?id=05042026e"
+    "date": "2026-05-11",
+    "title": "visionOS 26.5 (23O471)",
+    "link": "https://developer.apple.com/news/releases/?id=05112026e"
   },
   {
-    "date": "2026-05-04",
-    "title": "watchOS 26.5 RC (23T570)",
-    "link": "https://developer.apple.com/news/releases/?id=05042026f"
+    "date": "2026-05-11",
+    "title": "watchOS 26.5 (23T570)",
+    "link": "https://developer.apple.com/news/releases/?id=05112026f"
   },
   {
-    "date": "2026-05-04",
+    "date": "2026-05-11",
     "title": "iOS 18.7.9 (22H355)",
-    "link": "https://developer.apple.com/news/releases/?id=05042026g"
+    "link": "https://developer.apple.com/news/releases/?id=05112026g"
   },
   {
-    "date": "2026-05-04",
+    "date": "2026-05-11",
     "title": "iPadOS 18.7.9 (22H355)",
-    "link": "https://developer.apple.com/news/releases/?id=05042026h"
+    "link": "https://developer.apple.com/news/releases/?id=05112026h"
+  },
+  {
+    "date": "2026-05-11",
+    "title": "iPadOS 17.7.11 (21H461)",
+    "link": "https://developer.apple.com/news/releases/?id=05112026i"
   }
 ]
