@@ -1,5 +1,35 @@
 [
   {
+    "date": "2026-06-08",
+    "title": "iOS 27 beta (24A5355q)",
+    "link": "https://developer.apple.com/news/releases/?id=06082026b"
+  },
+  {
+    "date": "2026-06-08",
+    "title": "iPadOS 27 beta (24A5355q)",
+    "link": "https://developer.apple.com/news/releases/?id=06082026c"
+  },
+  {
+    "date": "2026-06-08",
+    "title": "macOS 27 beta (26A5353q)",
+    "link": "https://developer.apple.com/news/releases/?id=06082026d"
+  },
+  {
+    "date": "2026-06-08",
+    "title": "tvOS 27 beta (24J5289o)",
+    "link": "https://developer.apple.com/news/releases/?id=06082026e"
+  },
+  {
+    "date": "2026-06-08",
+    "title": "visionOS 27 beta (24M5291p)",
+    "link": "https://developer.apple.com/news/releases/?id=06082026f"
+  },
+  {
+    "date": "2026-06-08",
+    "title": "watchOS 27 beta (24R5289n)",
+    "link": "https://developer.apple.com/news/releases/?id=06082026g"
+  },
+  {
     "date": "2026-06-01",
     "title": "iOS 26.5.1 (23F81)",
     "link": "https://developer.apple.com/news/releases/?id=06012026a"
@@ -8,35 +38,5 @@
     "date": "2026-06-01",
     "title": "macOS 26.5.1 (25F80)",
     "link": "https://developer.apple.com/news/releases/?id=06012026b"
-  },
-  {
-    "date": "2026-05-26",
-    "title": "iOS 26.6 beta (23G5028e)",
-    "link": "https://developer.apple.com/news/releases/?id=05262026a"
-  },
-  {
-    "date": "2026-05-26",
-    "title": "iPadOS 26.6 beta (23G5028e)",
-    "link": "https://developer.apple.com/news/releases/?id=05262026b"
-  },
-  {
-    "date": "2026-05-26",
-    "title": "macOS 26.6 beta (25G5028f)",
-    "link": "https://developer.apple.com/news/releases/?id=05262026c"
-  },
-  {
-    "date": "2026-05-26",
-    "title": "tvOS 26.6 beta (23L5729e)",
-    "link": "https://developer.apple.com/news/releases/?id=05262026d"
-  },
-  {
-    "date": "2026-05-26",
-    "title": "visionOS 26.6 beta (23O5728e)",
-    "link": "https://developer.apple.com/news/releases/?id=05262026e"
-  },
-  {
-    "date": "2026-05-26",
-    "title": "watchOS 26.6 beta (23U5025e)",
-    "link": "https://developer.apple.com/news/releases/?id=05262026f"
   }
 ]
