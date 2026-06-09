@@ -1,5 +1,10 @@
 [
   {
+    "date": "2026-06-09",
+    "title": "AirPods beta (9A292e)",
+    "link": "https://developer.apple.com/news/releases/?id=06092026a"
+  },
+  {
     "date": "2026-06-08",
     "title": "iOS 27 beta (24A5355q)",
     "link": "https://developer.apple.com/news/releases/?id=06082026b"
@@ -23,20 +28,5 @@
     "date": "2026-06-08",
     "title": "visionOS 27 beta (24M5291p)",
     "link": "https://developer.apple.com/news/releases/?id=06082026f"
-  },
-  {
-    "date": "2026-06-08",
-    "title": "watchOS 27 beta (24R5289n)",
-    "link": "https://developer.apple.com/news/releases/?id=06082026g"
-  },
-  {
-    "date": "2026-06-01",
-    "title": "iOS 26.5.1 (23F81)",
-    "link": "https://developer.apple.com/news/releases/?id=06012026a"
-  },
-  {
-    "date": "2026-06-01",
-    "title": "macOS 26.5.1 (25F80)",
-    "link": "https://developer.apple.com/news/releases/?id=06012026b"
   }
 ]
