@@ -1,32 +1,37 @@
 [
   {
+    "date": "2026-06-15",
+    "title": "iOS 26.6 beta 2 (23G5043d)",
+    "link": "https://developer.apple.com/news/releases/?id=06152026a"
+  },
+  {
+    "date": "2026-06-15",
+    "title": "iPadOS 26.6 beta 2 (23G5043d)",
+    "link": "https://developer.apple.com/news/releases/?id=06152026b"
+  },
+  {
+    "date": "2026-06-15",
+    "title": "macOS 26.6 beta 2 (25G5043d)",
+    "link": "https://developer.apple.com/news/releases/?id=06152026c"
+  },
+  {
+    "date": "2026-06-15",
+    "title": "tvOS 26.6 beta 2 (23L5744d)",
+    "link": "https://developer.apple.com/news/releases/?id=06152026d"
+  },
+  {
+    "date": "2026-06-15",
+    "title": "visionOS 26.6 beta 2 (23O5743c)",
+    "link": "https://developer.apple.com/news/releases/?id=06152026e"
+  },
+  {
+    "date": "2026-06-15",
+    "title": "watchOS 26.6 beta 2 (23U5040d)",
+    "link": "https://developer.apple.com/news/releases/?id=06152026f"
+  },
+  {
     "date": "2026-06-09",
     "title": "AirPods beta (9A292e)",
     "link": "https://developer.apple.com/news/releases/?id=06092026a"
-  },
-  {
-    "date": "2026-06-08",
-    "title": "iOS 27 beta (24A5355q)",
-    "link": "https://developer.apple.com/news/releases/?id=06082026b"
-  },
-  {
-    "date": "2026-06-08",
-    "title": "iPadOS 27 beta (24A5355q)",
-    "link": "https://developer.apple.com/news/releases/?id=06082026c"
-  },
-  {
-    "date": "2026-06-08",
-    "title": "macOS 27 beta (26A5353q)",
-    "link": "https://developer.apple.com/news/releases/?id=06082026d"
-  },
-  {
-    "date": "2026-06-08",
-    "title": "tvOS 27 beta (24J5289o)",
-    "link": "https://developer.apple.com/news/releases/?id=06082026e"
-  },
-  {
-    "date": "2026-06-08",
-    "title": "visionOS 27 beta (24M5291p)",
-    "link": "https://developer.apple.com/news/releases/?id=06082026f"
   }
 ]
