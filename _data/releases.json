@@ -1,5 +1,10 @@
 [
   {
+    "date": "2026-06-23",
+    "title": "watchOS 27.0 beta 2 (24R5305g)",
+    "link": "https://developer.apple.com/news/releases/?id=06232026a"
+  },
+  {
     "date": "2026-06-22",
     "title": "iOS 27.0 beta 2 (24A5370h)",
     "link": "https://developer.apple.com/news/releases/?id=06222026a"
@@ -28,15 +33,5 @@
     "date": "2026-06-15",
     "title": "iOS 26.6 beta 2 (23G5043d)",
     "link": "https://developer.apple.com/news/releases/?id=06152026a"
-  },
-  {
-    "date": "2026-06-15",
-    "title": "iPadOS 26.6 beta 2 (23G5043d)",
-    "link": "https://developer.apple.com/news/releases/?id=06152026b"
-  },
-  {
-    "date": "2026-06-15",
-    "title": "macOS 26.6 beta 2 (25G5043d)",
-    "link": "https://developer.apple.com/news/releases/?id=06152026c"
   }
 ]
