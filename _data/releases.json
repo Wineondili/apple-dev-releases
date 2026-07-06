@@ -1,47 +1,52 @@
 [
   {
-    "date": "2026-06-29",
-    "title": "iOS 26.6 beta 3 (23G5052d)",
-    "link": "https://developer.apple.com/news/releases/?id=06292026d"
+    "date": "2026-07-06",
+    "title": "iOS 27.0 beta 3 (24A5380h)",
+    "link": "https://developer.apple.com/news/releases/?id=07062026g"
   },
   {
-    "date": "2026-06-29",
-    "title": "iPadOS 26.6 beta 3 (23G5052d)",
-    "link": "https://developer.apple.com/news/releases/?id=06292026e"
+    "date": "2026-07-06",
+    "title": "iPadOS 27.0 beta 3 (24A5380h)",
+    "link": "https://developer.apple.com/news/releases/?id=07062026h"
   },
   {
-    "date": "2026-06-29",
-    "title": "macOS 26.6 beta 3 (25G5052e)",
-    "link": "https://developer.apple.com/news/releases/?id=06292026f"
+    "date": "2026-07-06",
+    "title": "macOS 27.0 beta 3 (26A5378j)",
+    "link": "https://developer.apple.com/news/releases/?id=07062026i"
   },
   {
-    "date": "2026-06-29",
-    "title": "tvOS 26.6 beta 3 (23L5753c)",
-    "link": "https://developer.apple.com/news/releases/?id=06292026g"
+    "date": "2026-07-06",
+    "title": "tvOS 27.0 beta 3 (24J5315i)",
+    "link": "https://developer.apple.com/news/releases/?id=07062026j"
   },
   {
-    "date": "2026-06-29",
-    "title": "visionOS 26.6 beta 3 (23O5752d)",
-    "link": "https://developer.apple.com/news/releases/?id=06292026h"
+    "date": "2026-07-06",
+    "title": "visionOS 27.0 beta 3 (24M5316k)",
+    "link": "https://developer.apple.com/news/releases/?id=07062026k"
   },
   {
-    "date": "2026-06-29",
-    "title": "watchOS 26.6 beta 3 (23U5049c)",
-    "link": "https://developer.apple.com/news/releases/?id=06292026i"
+    "date": "2026-07-06",
+    "title": "watchOS 27.0 beta 3 (24R5315i)",
+    "link": "https://developer.apple.com/news/releases/?id=07062026l"
   },
   {
-    "date": "2026-06-29",
-    "title": "iOS 26.5.2 (23F84)",
-    "link": "https://developer.apple.com/news/releases/?id=06292026a"
+    "date": "2026-07-06",
+    "title": "iOS 26.6 beta 4 (23G5057c)",
+    "link": "https://developer.apple.com/news/releases/?id=07062026a"
   },
   {
-    "date": "2026-06-29",
-    "title": "iPadOS 26.5.2 (23F84)",
-    "link": "https://developer.apple.com/news/releases/?id=06292026b"
+    "date": "2026-07-06",
+    "title": "iPadOS 26.6 beta 4 (23G5057c)",
+    "link": "https://developer.apple.com/news/releases/?id=07062026b"
   },
   {
-    "date": "2026-06-29",
-    "title": "macOS 26.5.2 (25F84)",
-    "link": "https://developer.apple.com/news/releases/?id=06292026c"
+    "date": "2026-07-06",
+    "title": "macOS 26.6 beta 4 (25G5057c)",
+    "link": "https://developer.apple.com/news/releases/?id=07062026c"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "tvOS 26.6 beta 4 (23L5758b)",
+    "link": "https://developer.apple.com/news/releases/?id=07062026d"
   }
 ]
