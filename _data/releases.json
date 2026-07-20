@@ -1,6 +1,16 @@
 [
   {
     "date": "2026-07-20",
+    "title": "visionOS 27.0 beta 4 (24M5326g)",
+    "link": "https://developer.apple.com/news/releases/?id=07202026k"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "watchOS 27.0 beta 4 (24R5325h)",
+    "link": "https://developer.apple.com/news/releases/?id=07202026l"
+  },
+  {
+    "date": "2026-07-20",
     "title": "iOS 27.0 beta 4 (24A5390f)",
     "link": "https://developer.apple.com/news/releases/?id=07202026g"
   },
@@ -33,20 +43,5 @@
     "date": "2026-07-20",
     "title": "macOS 26.6 RC (25G70)",
     "link": "https://developer.apple.com/news/releases/?id=07202026c"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "tvOS 26.6 RC (23L772)",
-    "link": "https://developer.apple.com/news/releases/?id=07202026d"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "visionOS 26.6 RC (23O770)",
-    "link": "https://developer.apple.com/news/releases/?id=07202026e"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "watchOS 26.6 RC (23U67)",
-    "link": "https://developer.apple.com/news/releases/?id=07202026f"
   }
 ]
