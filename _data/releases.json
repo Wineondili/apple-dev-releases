@@ -1,47 +1,37 @@
 [
   {
+    "date": "2026-07-27",
+    "title": "iOS 26.6 (23G71)",
+    "link": "https://developer.apple.com/news/releases/?id=07272026a"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "iPadOS 26.6 (23G71)",
+    "link": "https://developer.apple.com/news/releases/?id=07272026b"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "macOS 26.6 (25G72)",
+    "link": "https://developer.apple.com/news/releases/?id=07272026c"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "tvOS 26.6 (23L773)",
+    "link": "https://developer.apple.com/news/releases/?id=07272026d"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "visionOS 26.6 (23O770)",
+    "link": "https://developer.apple.com/news/releases/?id=07272026e"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "watchOS 26.6 (23U67)",
+    "link": "https://developer.apple.com/news/releases/?id=07272026f"
+  },
+  {
     "date": "2026-07-20",
     "title": "visionOS 27.0 beta 4 (24M5326g)",
     "link": "https://developer.apple.com/news/releases/?id=07202026k"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "watchOS 27.0 beta 4 (24R5325h)",
-    "link": "https://developer.apple.com/news/releases/?id=07202026l"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "iOS 27.0 beta 4 (24A5390f)",
-    "link": "https://developer.apple.com/news/releases/?id=07202026g"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "iPadOS 27.0 beta 4 (24A5390f)",
-    "link": "https://developer.apple.com/news/releases/?id=07202026h"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "macOS 27.0 beta 4 (26A5388g)",
-    "link": "https://developer.apple.com/news/releases/?id=07202026i"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "tvOS 27.0 beta 4 (24J5325d)",
-    "link": "https://developer.apple.com/news/releases/?id=07202026j"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "iOS 26.6 RC (23G71)",
-    "link": "https://developer.apple.com/news/releases/?id=07202026a"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "iPadOS 26.6 RC (23G71)",
-    "link": "https://developer.apple.com/news/releases/?id=07202026b"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "macOS 26.6 RC (25G70)",
-    "link": "https://developer.apple.com/news/releases/?id=07202026c"
   }
 ]
