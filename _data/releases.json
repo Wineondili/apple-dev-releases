@@ -1,47 +1,52 @@
 [
   {
-    "date": "2026-08-10",
-    "title": "iOS 27.0 beta 5 (24A5408d)",
-    "link": "https://developer.apple.com/news/releases/?id=08102026f"
+    "date": "2026-08-17",
+    "title": "iOS 27.0 beta 6 (24A5418b)",
+    "link": "https://developer.apple.com/news/releases/?id=08172026a"
   },
   {
-    "date": "2026-08-10",
-    "title": "iPadOS 27.0 beta 5 (24A5408d)",
-    "link": "https://developer.apple.com/news/releases/?id=08102026g"
+    "date": "2026-08-17",
+    "title": "iPadOS 27.0 beta 6 (24A5418b)",
+    "link": "https://developer.apple.com/news/releases/?id=08172026b"
   },
   {
-    "date": "2026-08-10",
-    "title": "macOS 27.0 beta 5 (26A5406e)",
-    "link": "https://developer.apple.com/news/releases/?id=08102026h"
+    "date": "2026-08-17",
+    "title": "macOS 27.0 beta 6 (26A5416b)",
+    "link": "https://developer.apple.com/news/releases/?id=08172026c"
   },
   {
-    "date": "2026-08-10",
-    "title": "tvOS 27.0 beta 5 (24J5346a)",
-    "link": "https://developer.apple.com/news/releases/?id=08102026i"
+    "date": "2026-08-17",
+    "title": "tvOS 27.0 beta 6 (24J5353b)",
+    "link": "https://developer.apple.com/news/releases/?id=08172026d"
   },
   {
-    "date": "2026-08-10",
-    "title": "visionOS 27.0 beta 5 (24M5348b)",
-    "link": "https://developer.apple.com/news/releases/?id=08102026j"
+    "date": "2026-08-17",
+    "title": "visionOS 27.0 beta 6 (24M5355a)",
+    "link": "https://developer.apple.com/news/releases/?id=08172026e"
   },
   {
-    "date": "2026-08-10",
-    "title": "watchOS 27.0 beta 5 (24R5347a)",
-    "link": "https://developer.apple.com/news/releases/?id=08102026k"
+    "date": "2026-08-17",
+    "title": "watchOS 27.0 beta 6 (24R5353a)",
+    "link": "https://developer.apple.com/news/releases/?id=08172026f"
   },
   {
-    "date": "2026-08-10",
-    "title": "iOS 26.6.1 (23G82)",
-    "link": "https://developer.apple.com/news/releases/?id=08102026a"
+    "date": "2026-08-17",
+    "title": "iOS 26.6.1 (23G83)",
+    "link": "https://developer.apple.com/news/releases/?id=08172026g"
   },
   {
-    "date": "2026-08-10",
-    "title": "iPadOS 26.6.1 (23G82)",
-    "link": "https://developer.apple.com/news/releases/?id=08102026b"
+    "date": "2026-08-17",
+    "title": "iPadOS 26.6.1 (23G83)",
+    "link": "https://developer.apple.com/news/releases/?id=08172026h"
   },
   {
-    "date": "2026-08-10",
-    "title": "macOS 26.6.2 (25G82)",
-    "link": "https://developer.apple.com/news/releases/?id=08102026c"
+    "date": "2026-08-17",
+    "title": "visionOS 26.6.1 (23O780)",
+    "link": "https://developer.apple.com/news/releases/?id=08172026i"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "macOS 26.6.2 (25G83)",
+    "link": "https://developer.apple.com/news/releases/?id=08172026j"
   }
 ]
