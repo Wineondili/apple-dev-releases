@@ -1,33 +1,33 @@
 [
   {
-    "date": "2026-08-24",
-    "title": "iOS 27.0 beta 7 (24A5424a)",
-    "link": "https://developer.apple.com/news/releases/?id=08242026a"
+    "date": "2026-08-31",
+    "title": "iOS 27.0 beta 8 (24A5430a)",
+    "link": "https://developer.apple.com/news/releases/?id=08312026a"
   },
   {
-    "date": "2026-08-24",
-    "title": "iPadOS 27.0 beta 7 (24A5424a)",
-    "link": "https://developer.apple.com/news/releases/?id=08242026b"
+    "date": "2026-08-31",
+    "title": "iPadOS 27.0 beta 8 (24A5430a)",
+    "link": "https://developer.apple.com/news/releases/?id=08312026b"
   },
   {
-    "date": "2026-08-24",
-    "title": "macOS 27.0 beta 7 (26A5421a)",
-    "link": "https://developer.apple.com/news/releases/?id=08242026c"
+    "date": "2026-08-31",
+    "title": "macOS 27.0 beta 8 (26A5425a)",
+    "link": "https://developer.apple.com/news/releases/?id=08312026c"
   },
   {
-    "date": "2026-08-24",
-    "title": "tvOS 27.0 beta 7 (24J5358a)",
-    "link": "https://developer.apple.com/news/releases/?id=08242026d"
+    "date": "2026-08-31",
+    "title": "tvOS 27.0 beta 8 (24J5360a)",
+    "link": "https://developer.apple.com/news/releases/?id=08312026d"
   },
   {
-    "date": "2026-08-24",
-    "title": "visionOS 27.0 beta 7 (24M5359a)",
-    "link": "https://developer.apple.com/news/releases/?id=08242026e"
+    "date": "2026-08-31",
+    "title": "visionOS 27.0 beta 8 (24M5361a)",
+    "link": "https://developer.apple.com/news/releases/?id=08312026e"
   },
   {
-    "date": "2026-08-24",
-    "title": "watchOS 27.0 beta 7 (24R5358a)",
-    "link": "https://developer.apple.com/news/releases/?id=08242026f"
+    "date": "2026-08-31",
+    "title": "watchOS 27.0 beta 8 (24R5360a)",
+    "link": "https://developer.apple.com/news/releases/?id=08312026f"
   },
   {
     "date": "2026-08-17",
@@ -38,10 +38,5 @@
     "date": "2026-08-17",
     "title": "iPadOS 26.6.1 (23G83)",
     "link": "https://developer.apple.com/news/releases/?id=08172026h"
-  },
-  {
-    "date": "2026-08-17",
-    "title": "visionOS 26.6.1 (23O780)",
-    "link": "https://developer.apple.com/news/releases/?id=08172026i"
   }
 ]
