@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-09-08",
+    "title": "iOS 26.6.2 (23G90)",
+    "link": "https://developer.apple.com/news/releases/?id=09082026a"
+  },
+  {
+    "date": "2026-09-08",
+    "title": "iPadOS 26.6.2 (23G90)",
+    "link": "https://developer.apple.com/news/releases/?id=09082026b"
+  },
+  {
     "date": "2026-08-31",
     "title": "iOS 27.0 beta 8 (24A5430a)",
     "link": "https://developer.apple.com/news/releases/?id=08312026a"
@@ -28,15 +38,5 @@
     "date": "2026-08-31",
     "title": "watchOS 27.0 beta 8 (24R5360a)",
     "link": "https://developer.apple.com/news/releases/?id=08312026f"
-  },
-  {
-    "date": "2026-08-17",
-    "title": "iOS 26.6.1 (23G83)",
-    "link": "https://developer.apple.com/news/releases/?id=08172026g"
-  },
-  {
-    "date": "2026-08-17",
-    "title": "iPadOS 26.6.1 (23G83)",
-    "link": "https://developer.apple.com/news/releases/?id=08172026h"
   }
 ]
