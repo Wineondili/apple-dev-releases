@@ -1,33 +1,38 @@
 [
   {
-    "date": "2026-09-09",
-    "title": "iOS 27.0 RC (24A435)",
-    "link": "https://developer.apple.com/news/releases/?id=09092026a"
+    "date": "2026-09-14",
+    "title": "iOS 27.0 (24A437)",
+    "link": "https://developer.apple.com/news/releases/?id=09142026a"
   },
   {
-    "date": "2026-09-09",
-    "title": "iPadOS 27.0 RC (24A435)",
-    "link": "https://developer.apple.com/news/releases/?id=09092026b"
+    "date": "2026-09-14",
+    "title": "iPadOS 27.0 (24A437)",
+    "link": "https://developer.apple.com/news/releases/?id=09142026b"
   },
   {
-    "date": "2026-09-09",
-    "title": "macOS 27.0 RC (26A428)",
-    "link": "https://developer.apple.com/news/releases/?id=09092026c"
+    "date": "2026-09-14",
+    "title": "macOS 27.0 (26A428)",
+    "link": "https://developer.apple.com/news/releases/?id=09142026c"
   },
   {
-    "date": "2026-09-09",
-    "title": "tvOS 27.0 RC (24J360)",
-    "link": "https://developer.apple.com/news/releases/?id=09092026d"
+    "date": "2026-09-14",
+    "title": "tvOS 27.0 (24J361)",
+    "link": "https://developer.apple.com/news/releases/?id=09142026d"
   },
   {
-    "date": "2026-09-09",
-    "title": "visionOS 27.0 RC (24M362)",
-    "link": "https://developer.apple.com/news/releases/?id=09092026e"
+    "date": "2026-09-14",
+    "title": "visionOS 27.0 (24M362)",
+    "link": "https://developer.apple.com/news/releases/?id=09142026e"
   },
   {
-    "date": "2026-09-09",
-    "title": "watchOS 27.0 RC (24R363)",
-    "link": "https://developer.apple.com/news/releases/?id=09092026f"
+    "date": "2026-09-14",
+    "title": "watchOS 27.0 (24R364)",
+    "link": "https://developer.apple.com/news/releases/?id=09142026f"
+  },
+  {
+    "date": "2026-09-11",
+    "title": "iOS 27.0 RC (24A437)",
+    "link": "https://developer.apple.com/news/releases/?id=09112026a"
   },
   {
     "date": "2026-09-09",
