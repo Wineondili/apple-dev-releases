@@ -1,42 +1,37 @@
 [
   {
+    "date": "2026-09-16",
+    "title": "iOS 27.2 beta (24B5084k)",
+    "link": "https://developer.apple.com/news/releases/?id=09162026a"
+  },
+  {
+    "date": "2026-09-16",
+    "title": "iPadOS 27.2 beta (24B5084k)",
+    "link": "https://developer.apple.com/news/releases/?id=09162026b"
+  },
+  {
+    "date": "2026-09-16",
+    "title": "macOS 27.2 beta (26B5086k)",
+    "link": "https://developer.apple.com/news/releases/?id=09162026c"
+  },
+  {
+    "date": "2026-09-16",
+    "title": "tvOS 27.2 beta (24K5088l)",
+    "link": "https://developer.apple.com/news/releases/?id=09162026d"
+  },
+  {
+    "date": "2026-09-16",
+    "title": "visionOS 27.2 beta (24N5088l)",
+    "link": "https://developer.apple.com/news/releases/?id=09162026e"
+  },
+  {
+    "date": "2026-09-16",
+    "title": "watchOS 27.2 beta (24S5086l)",
+    "link": "https://developer.apple.com/news/releases/?id=09162026f"
+  },
+  {
     "date": "2026-09-14",
     "title": "iOS 27.0 (24A437)",
     "link": "https://developer.apple.com/news/releases/?id=09142026a"
-  },
-  {
-    "date": "2026-09-14",
-    "title": "iPadOS 27.0 (24A437)",
-    "link": "https://developer.apple.com/news/releases/?id=09142026b"
-  },
-  {
-    "date": "2026-09-14",
-    "title": "macOS 27.0 (26A428)",
-    "link": "https://developer.apple.com/news/releases/?id=09142026c"
-  },
-  {
-    "date": "2026-09-14",
-    "title": "tvOS 27.0 (24J361)",
-    "link": "https://developer.apple.com/news/releases/?id=09142026d"
-  },
-  {
-    "date": "2026-09-14",
-    "title": "visionOS 27.0 (24M362)",
-    "link": "https://developer.apple.com/news/releases/?id=09142026e"
-  },
-  {
-    "date": "2026-09-14",
-    "title": "watchOS 27.0 (24R364)",
-    "link": "https://developer.apple.com/news/releases/?id=09142026f"
-  },
-  {
-    "date": "2026-09-11",
-    "title": "iOS 27.0 RC (24A437)",
-    "link": "https://developer.apple.com/news/releases/?id=09112026a"
-  },
-  {
-    "date": "2026-09-09",
-    "title": "iPadOS 26.7 (23H24)",
-    "link": "https://developer.apple.com/news/releases/?id=09092026g"
   }
 ]
