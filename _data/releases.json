@@ -1,37 +1,32 @@
 [
   {
-    "date": "2026-10-13",
-    "title": "iOS 27.2 beta 4 (24B5110a)",
-    "link": "https://developer.apple.com/news/releases/?id=10132026a"
+    "date": "2026-10-19",
+    "title": "iOS 27.2 RC (24B115)",
+    "link": "https://developer.apple.com/news/releases/?id=10192026a"
   },
   {
-    "date": "2026-10-13",
-    "title": "iPadOS 27.2 beta 4 (24B5110a)",
-    "link": "https://developer.apple.com/news/releases/?id=10132026b"
+    "date": "2026-10-19",
+    "title": "iPadOS 27.2 RC (24B115)",
+    "link": "https://developer.apple.com/news/releases/?id=10192026b"
   },
   {
-    "date": "2026-10-13",
-    "title": "macOS 27.2 beta 4 (26B5112a)",
-    "link": "https://developer.apple.com/news/releases/?id=10132026c"
+    "date": "2026-10-19",
+    "title": "macOS 27.2 RC (26B118)",
+    "link": "https://developer.apple.com/news/releases/?id=10192026c"
   },
   {
-    "date": "2026-10-13",
-    "title": "visionOS 27.2 beta 4 (24N5114a)",
-    "link": "https://developer.apple.com/news/releases/?id=10132026d"
+    "date": "2026-10-19",
+    "title": "tvOS 27.2 RC (24K120)",
+    "link": "https://developer.apple.com/news/releases/?id=10192026d"
   },
   {
-    "date": "2026-10-13",
-    "title": "watchOS 27.2 beta 4 (24S5112a)",
-    "link": "https://developer.apple.com/news/releases/?id=10132026e"
+    "date": "2026-10-19",
+    "title": "visionOS 27.2 RC (24N118)",
+    "link": "https://developer.apple.com/news/releases/?id=10192026e"
   },
   {
-    "date": "2026-10-05",
-    "title": "iOS 27.2 beta 3 (24B5099f)",
-    "link": "https://developer.apple.com/news/releases/?id=10052026a"
-  },
-  {
-    "date": "2026-10-05",
-    "title": "tvOS 27.2 beta 3 (24K5103f)",
-    "link": "https://developer.apple.com/news/releases/?id=10052026d"
+    "date": "2026-10-19",
+    "title": "watchOS 27.2 RC (24S116)",
+    "link": "https://developer.apple.com/news/releases/?id=10192026f"
   }
 ]
