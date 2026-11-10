@@ -1,32 +1,47 @@
 [
   {
-    "date": "2026-11-03",
-    "title": "iOS 27.3 beta (24C5037i)",
-    "link": "https://developer.apple.com/news/releases/?id=11032026a"
+    "date": "2026-11-09",
+    "title": "iOS 27.2.1 (24B91034)",
+    "link": "https://developer.apple.com/news/releases/?id=11092026a"
   },
   {
-    "date": "2026-11-03",
-    "title": "iPadOS 27.3 beta (24C5037i)",
-    "link": "https://developer.apple.com/news/releases/?id=11032026b"
+    "date": "2026-11-09",
+    "title": "iOS 27.2.1 (24B156)",
+    "link": "https://developer.apple.com/news/releases/?id=11092026b"
   },
   {
-    "date": "2026-11-03",
-    "title": "macOS 27.3 beta (26C5035r)",
-    "link": "https://developer.apple.com/news/releases/?id=11032026c"
+    "date": "2026-11-09",
+    "title": "iPadOS 27.2.1 (24B156)",
+    "link": "https://developer.apple.com/news/releases/?id=11092026c"
   },
   {
-    "date": "2026-11-03",
-    "title": "tvOS 27.3 beta (24K5286g)",
-    "link": "https://developer.apple.com/news/releases/?id=11032026d"
+    "date": "2026-11-09",
+    "title": "macOS 27.2.1 (26B131)",
+    "link": "https://developer.apple.com/news/releases/?id=11092026d"
   },
   {
-    "date": "2026-11-03",
-    "title": "visionOS 27.3 beta (24N5286r)",
-    "link": "https://developer.apple.com/news/releases/?id=11032026e"
+    "date": "2026-11-09",
+    "title": "visionOS 27.2.1 (24N124)",
+    "link": "https://developer.apple.com/news/releases/?id=11092026e"
   },
   {
-    "date": "2026-11-03",
-    "title": "watchOS 27.3 beta (24S5284h)",
-    "link": "https://developer.apple.com/news/releases/?id=11032026f"
+    "date": "2026-11-09",
+    "title": "watchOS 27.2.1 (24S132)",
+    "link": "https://developer.apple.com/news/releases/?id=11092026f"
+  },
+  {
+    "date": "2026-11-09",
+    "title": "iPadOS 26.7.3 (23H131)",
+    "link": "https://developer.apple.com/news/releases/?id=11092026g"
+  },
+  {
+    "date": "2026-11-09",
+    "title": "iOS 18.7.12 (22H390)",
+    "link": "https://developer.apple.com/news/releases/?id=11092026h"
+  },
+  {
+    "date": "2026-11-09",
+    "title": "iPadOS 18.7.12 (22H390)",
+    "link": "https://developer.apple.com/news/releases/?id=11092026i"
   }
 ]
