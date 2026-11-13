@@ -1,5 +1,10 @@
 [
   {
+    "date": "2026-11-13",
+    "title": "tvOS 27.2.1 (24K157)",
+    "link": "https://developer.apple.com/news/releases/?id=11132026a"
+  },
+  {
     "date": "2026-11-12",
     "title": "HomeView Software 27.2 (24V526)",
     "link": "https://developer.apple.com/news/releases/?id=11122026a"
@@ -43,10 +48,5 @@
     "date": "2026-11-09",
     "title": "iOS 18.7.12 (22H390)",
     "link": "https://developer.apple.com/news/releases/?id=11092026h"
-  },
-  {
-    "date": "2026-11-09",
-    "title": "iPadOS 18.7.12 (22H390)",
-    "link": "https://developer.apple.com/news/releases/?id=11092026i"
   }
 ]
