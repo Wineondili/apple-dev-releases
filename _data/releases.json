@@ -1,5 +1,35 @@
 [
   {
+    "date": "2026-11-16",
+    "title": "iOS 27.3 beta 2 (24C5049d)",
+    "link": "https://developer.apple.com/news/releases/?id=11162026a"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "iPadOS 27.3 beta 2 (24C5049d)",
+    "link": "https://developer.apple.com/news/releases/?id=11162026b"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "macOS 27.3 beta 2 (26C5047e)",
+    "link": "https://developer.apple.com/news/releases/?id=11162026c"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "tvOS 27.3 beta 2 (24K5298d)",
+    "link": "https://developer.apple.com/news/releases/?id=11162026d"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "visionOS 27.3 beta 2 (24N5298d)",
+    "link": "https://developer.apple.com/news/releases/?id=11162026e"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "watchOS 27.3 beta 2 (24S5296d)",
+    "link": "https://developer.apple.com/news/releases/?id=11162026f"
+  },
+  {
     "date": "2026-11-13",
     "title": "tvOS 27.2.1 (24K157)",
     "link": "https://developer.apple.com/news/releases/?id=11132026a"
@@ -8,45 +38,5 @@
     "date": "2026-11-12",
     "title": "HomeView Software 27.2 (24V526)",
     "link": "https://developer.apple.com/news/releases/?id=11122026a"
-  },
-  {
-    "date": "2026-11-09",
-    "title": "iOS 27.2.1 (24B91034)",
-    "link": "https://developer.apple.com/news/releases/?id=11092026a"
-  },
-  {
-    "date": "2026-11-09",
-    "title": "iOS 27.2.1 (24B156)",
-    "link": "https://developer.apple.com/news/releases/?id=11092026b"
-  },
-  {
-    "date": "2026-11-09",
-    "title": "iPadOS 27.2.1 (24B156)",
-    "link": "https://developer.apple.com/news/releases/?id=11092026c"
-  },
-  {
-    "date": "2026-11-09",
-    "title": "macOS 27.2.1 (26B131)",
-    "link": "https://developer.apple.com/news/releases/?id=11092026d"
-  },
-  {
-    "date": "2026-11-09",
-    "title": "visionOS 27.2.1 (24N124)",
-    "link": "https://developer.apple.com/news/releases/?id=11092026e"
-  },
-  {
-    "date": "2026-11-09",
-    "title": "watchOS 27.2.1 (24S132)",
-    "link": "https://developer.apple.com/news/releases/?id=11092026f"
-  },
-  {
-    "date": "2026-11-09",
-    "title": "iPadOS 26.7.3 (23H131)",
-    "link": "https://developer.apple.com/news/releases/?id=11092026g"
-  },
-  {
-    "date": "2026-11-09",
-    "title": "iOS 18.7.12 (22H390)",
-    "link": "https://developer.apple.com/news/releases/?id=11092026h"
   }
 ]
