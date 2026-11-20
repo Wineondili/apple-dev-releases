@@ -1,18 +1,18 @@
 [
   {
+    "date": "2026-11-19",
+    "title": "iOS 27.3 beta 2 v2 (24C5049f)",
+    "link": "https://developer.apple.com/news/releases/?id=11192026a"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "iPadOS 27.3 beta 2 v2 (24C5049f)",
+    "link": "https://developer.apple.com/news/releases/?id=11192026b"
+  },
+  {
     "date": "2026-11-18",
     "title": "HomeView Software 27.2.1 (24V553)",
     "link": "https://developer.apple.com/news/releases/?id=11182026a"
-  },
-  {
-    "date": "2026-11-16",
-    "title": "iOS 27.3 beta 2 (24C5049d)",
-    "link": "https://developer.apple.com/news/releases/?id=11162026a"
-  },
-  {
-    "date": "2026-11-16",
-    "title": "iPadOS 27.3 beta 2 (24C5049d)",
-    "link": "https://developer.apple.com/news/releases/?id=11162026b"
   },
   {
     "date": "2026-11-16",
@@ -33,10 +33,5 @@
     "date": "2026-11-16",
     "title": "watchOS 27.3 beta 2 (24S5296d)",
     "link": "https://developer.apple.com/news/releases/?id=11162026f"
-  },
-  {
-    "date": "2026-11-13",
-    "title": "tvOS 27.2.1 (24K157)",
-    "link": "https://developer.apple.com/news/releases/?id=11132026a"
   }
 ]
